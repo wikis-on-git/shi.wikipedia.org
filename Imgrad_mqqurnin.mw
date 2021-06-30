@@ -1,0 +1,30 @@
+{{Tazwart}}
+
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: column; flex: 1 1 25em;"> <!-- Tuddma n imnnitn n iẓẓlmḍ -->
+
+{{Amnni
+ | Azday = Template:50 n umgrad amqqran n Wikipidya Taclḥit
+ | Azwl = 50 n umgrad amqqran n Wikipidya Taclḥit
+ | Azwl-aklu-abuḍ = #FFDD91
+ | Tawlaft = Circle-icons-tools.svg
+ | Tamamkt = flex: 1 1 auto;
+ | Tumayt = {{Template:50 n umgrad amqqran n Wikipidya Taclḥit}}
+}}
+
+</div> <!-- Tigira n imnnitn n iẓẓlmḍ  -->
+<div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- Tuddma n imnnitn n ufasi -->
+
+{{Amnni
+ | Azday = Template:50 n umgrad aẓẓyan n Wikipidya Taclḥit
+ | Azwl = 50 n umgrad aẓẓyan n Wikipidya Taclḥit
+ | Azwl-aklu-abuḍ = #FFDD91
+ | Tawlaft = Circle-icons-tools.svg
+ | Tamamkt = flex: 1 1 auto;
+ | Tumayt = {{Template:50 n umgrad aẓẓyan n Wikipidya Taclḥit}}
+}}
+
+</div> <!-- Tigira n imnnitn n iẓẓlmḍ  -->
+</div><!-- Tigira n tasna --->
+<noinclude>
+[[Taggayt:Tasna tamzwarut]]
