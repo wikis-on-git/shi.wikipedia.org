@@ -1,0 +1,122 @@
+{{Amgrad icqqan}}[[Afaylu:Logarithme neperien.svg|thumb|325x325px|Alugaritm anipiri ]]
+'''Alugaritm agaman''' nɣ '''Alugaritm anipiri''' (s [[Tutlayt Tanglizt|tanglizt]] : Natural logarithm) tga yat tasɣnt nɣ twwuri tettuysan bahra ɣ [[tusnakt]], ar tsnfal afaris s timrnit zund akkʷ [[Tasɣnt talugaritm|tisɣnin ilugaritm]]. Ar tt ntara s ɣmk-ad : <math>\ln()</math>. 
+
+Ar nttini mas-d alugaritm agaman nɣ anipiri iga s uzadur n <math>e</math> ([[e (amḍan n tusnakt)|amḍan]]) acku <math>ln(e)=1</math>, iga alugaritm agaman ula tamnzut n tasɣnt : <math>x \longmapsto 1/x </math> ɣ uzilal  <math>]0 ; + \infty[</math> .
+
+== Amzruy ==
+Alugaritm ad dars yan yism yaḍni abla "agaman", iga-tt "anipiri". Ism ad yuckad zɣ John Napir nna igan yan umusnak askatlandi, nttat ad akkʷ izwarn ay-skr taflwit talugaritm ( ur trwas xtad lli nssn ɣila nkkni )
+
+Tettyawskar tazmilt n ulugaritm nna f nsawal nkkni ɣila s ifassn n Grégoire de Saint-Vincent d Alphonse Antonio de Sarasa ɣ usggʷas n 1649
+
+== Isnmal ==
+Ad tg <math>a \in ]0 ; + \infty[ </math>, nzḍar ad nini mas-d asnml n tasɣnt talugaritm tga-tt unrar lli illan ɣ izddar n tasɣnt <math>x \mapsto 1/x
+ </math> gr <math>a
+ </math> d 1. Ɣikad ast nttara :
+[[Afaylu:Log-pole-x 1.svg|thumb|Tasɣnt talugaritm tga unrar lli illan ɣ izddar n tasɣnt <math>x \mapsto 1/x
+ </math> gr <math>a
+ </math> d 1.]]
+<math>\ln a = \int_1^a \frac{1}{x}\,dx.
+ </math>
+
+Iɣ darnɣ <math>a<1 </math> rad nini mas-d unrar lli darnɣ illan iga uzdir.
+
+Ɣilad tasɣnt talugaritm dars akkʷ aydatn n [[Tasɣnt talugaritm|tisɣnin tilugaritm]].<ref>https://www.britannica.com/science/logarithm ''Encyclopedia Britannica''. Tettuyẓra ass n 2020-08-29.</ref>
+
+<math display="inline">\ln(ab) = \ln a + \ln b.
+
+ </math>
+
+Nzḍar ad nml ɣayad s tibḍit n uɣrd lli f nsawl ɣ umzwaru s snat tifulin ɣ-akud-ann nɣrd s usnfl n umutti <math>x = ta</math> ɣ tafult tiss-snat, zund ɣikad:
+
+<math>\begin{align}
+\ln(ab)= \int_1^{ab}\frac{1}{x} \, dx
+&=\int_1^a \frac 1 x \, dx + \int_a^{ab} \frac{1}{x} \, dx\\[5pt]
+&=\int_1^a \frac 1 x \, dx + \int_1^b \frac{1}{at} \, d(at)\\[5pt]
+&=\int_1^a \frac 1 x \, dx + \int_1^b \frac{1}{t} \, dt\\[5pt]
+&= \ln a + \ln b.
+\end{align}
+ </math>
+
+== Aydatn ==
+[[Afaylu:Log (2).svg|thumb|264x264px|Tasɣnt n ulugaritm agaman]]
+
+==== Taɣlalt d tsbk n tasɣnt n ulugaritm agaman ====
+Zɣ ɣaylli izrin ar ntafa masd tasɣnt <math>x \mapsto ln(x) </math> tlla ɣar ɣ uzilal <math>]0 ; + \infty[  </math> d nzḍar ad tt nzllm ɣ ammas uzilal ad nit d:
+
+<math>\forall x \in \R^*_+,\ \ln'(x) = \frac 1x </math>
+
+S ɣikad tga <math>ln </math> tasɣnt tamaɣlalt ɣ uzilal <math>]0 ; + \infty[  </math>, d acku tazllumt nns tga tumnigt rad nini masd <math>ln </math> tga tasɣnt igmmn ɣ ammas uzilal <math>]0 ; + \infty[  </math>
+
+==== Timhal f tasɣnt n ulugaritm agaman ====
+Ad tg <math>f </math> yat tasɣnt <math>\ f(x) = \ln(ax)</math> s <math>a </math> d <math>x </math> sin imḍanen umnign. Tazllumt nns tga nit tazllumt n ulugaritm agaman, hyya:
+
+<math>\ f(x) = \ln(x)+k \ / \ k \in \ R</math>
+
+D acku <math display="inline">f(1) =k </math> rad nini masd <math>ln(a)=k </math> , s yat tɣarast igan amatay:
+
+* <math>\forall (a;b)\in ]0 : + \infty[^2,\ \ln(ab) = \ln(a) + \ln(b)</math>
+
+Zɣ uyda yad rad naf aydatn ddaw as:
+
+* <math>\forall (a;b)\in ]0 : + \infty[^2,\ \ln\left(\frac ab\right) = \ln(a) - \ln(b)</math>
+
+Iɣ iga <math>n </math> amḍan waxiḍ:
+
+* <math>\forall a \in ]0 ; + \infty[,\ \forall n \in \Z,\ \ln(a^n) = n \ln(a)</math>
+* <math>\forall a \in ]0 ; + \infty[,\ \forall r \in \Q,\ \ln(a^r) = r \ln(a)</math>
+
+Iɣ iga <math>n </math> amḍan ana:
+
+* <math>\forall a \in \R^* ,\ \forall \; n \in \Z^*,\ \ln (a^{n}) = 2n \ln |a| </math>
+* <math>\forall (a_1,a_2,....,a_k) \in ]0 : + \infty[^k,\ \sum_{n = 1}^{k}\ln(a_n)= \ln(\prod_{n=1}^k a_n) </math>
+
+Ɣid ar nmmal afaris s <math>\prod</math>
+
+==== Aydatn yaḍnin ====
+* <math>\ln 1 = 0</math>
+* <math>\ln e = 1</math>
+* <math>\ln(xy) = \ln x + \ln y \quad \text{i }\; x > 0\;\text{d }\; y > 0</math>
+* <math>\ln(x^y) = y \ln x \quad \text{i }\; x > 0</math>
+* <math>\ln x < \ln y \quad\text{i }\; 0 < x < y</math>
+* <math>\lim_{x \to 0} \frac{\ln(1+x)}{x} = 1</math>
+* <math>\lim_{\alpha \to 0} \frac{x^\alpha-1}{\alpha} = \ln x\quad \text{i }\; x > 0</math>
+* <math>\frac{x-1}{x} \leq \ln x \leq x-1 \quad\text{i}\quad x > 0</math>
+* <math>\ln{( 1+x^\alpha )} \leq \alpha x \quad\text{i}\quad x \ge 0\;\text{d }\; \alpha \ge 1</math>
+== Amawal ==
+<div style="column-count:4;-moz-column-count:3;-webkit-column count:">
+*Agaman : naturel
+*Tasɣnt, Tawwuri : fonction
+*Afaris : produit
+*Timrnit : somme
+*Azadur : base
+*Tamnzut : fonction primitive
+*Azilal : intervalle
+*Amusnak : mathematicien
+*Taflwit : tableau
+*Tazmilt : notion
+*Asnml : definition
+*Anrar : aire
+*Ayda : propriete
+*Aɣrd : integrale
+*Tafult : partie
+*Amutti : variable
+*Taɣlalt : continuite
+*Uzdir : negatif
+*Tsbk : monotonie
+*Zllm : deriver
+*Igmmn : croissante
+*Umnig : positif
+*Tamhlt : opperation
+*Amḍan : nombre
+*Amatay : general
+*Waxiḍ : impair
+*Ana : paire
+</Div>
+
+== Isaɣuln ==
+<references />{{Aggur:Tusnakt/Tin imgradn}}
+[[en:Natural_logarithm]]
+
+[[Taggayt:Tusnakt]]
+[[Taggayt:Tussna]]
+[[Taggayt:Tanzeggant]]
