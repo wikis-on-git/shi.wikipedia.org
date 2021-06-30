@@ -1,0 +1,84 @@
+{{Amgrad icqqan}}[[Afaylu:Mplwp factorial gamma stirling.svg|thumb]]
+'''Tanfalit n Stirling''' nɣ '''Tamawaẓt n Stirling''' tga ɣ tusnakt, yat tnfalit nna yakkan agdazal n uskir n yan umḍan ummid agaman <math>n</math> iɣ yaẓ <math>n</math> i wartmi:
+
+<math display="block">\lim_{n \to +\infty} {n\,!\over \sqrt{2 \pi n} \; \left({n}/{\rm e}\right)^{n} } = 1</math>nna nttafa tettyura ula s tɣarast ad:
+
+<math display="block">n\,!\sim \sqrt{2\pi n}\,\left({n \over {\rm e}}\right)^n</math>maɣ <math>e</math> ɣid tga amḍan n tusnakt [[e (amḍan n tusnakt)|ikspununsyal]].
+==Amzruy==
+[[Brahim du Mwavr]] ad akk izwarn is yufa tanfalit ad ddaw-as:
+
+<math display="block">n\,!\sim C\; n^{n+\frac12}\, \mathrm e^{-n}</math>
+
+maɣ <math>C</math> tga yat timzgit tilawt (ur igaddan d amya)
+
+Mad ifka nɣ mad izayd Stirling i tanfalit ad iga-tt atig n timzgit, iga y'as <math>C = \sqrt{2\pi n}</math> fad ad aɣ tfk asbuɣlu n <math>ln(n!)</math> i kraygat amizzwr.
+
+== Atig ɣ wartmi ==
+Bac ad nit ntḥqqaq is nit ar ttaẓ tanfalit ad i atig n <math>n!</math>, nẓḍar ad nɛdl taflwit ad lli aɣ immaln atign n <math>n!</math> d win <math>n\,!\sim \sqrt{2\pi n}\,\left({n \over {\rm e}}\right)^n</math> s sin-itsn:
+{|class="wikitable centre alternance" style="text-align:center;"
+|--- 
+! ''n''
+! ''n'' !
+! <math>\sqrt{2\pi n}\,\left({n \over {\mathrm e}}\right)^n</math>
+! <math>\sqrt{2\pi n}\,\left({n \over {\mathrm e}}\right)^n \left(1 + \frac1{12\ n}\right)</math>
+|---
+! 1
+| '''1''' || 0,92 || 0,999
+|---
+! 2
+| '''2''' || 1,92 || 1,999
+|---
+! 3
+| '''6''' || 5,84 || 5,998
+|---
+! 4
+| '''24''' || '''2'''3,51 || '''2'''3,996
+|---
+! 5
+| '''120''' || '''1'''18,02 || '''1'''19,99
+|---
+! 6
+| '''720''' || '''7'''10,08 || '''7'''19,94
+|---
+! 7
+| '''5 040''' || 4 980,4 || '''5 0'''39,7
+|---
+! 8
+| '''40 320''' || 39 902,4 || '''40 3'''18,1
+|---
+! 9
+| '''362 880''' || '''3'''59 536,9 || '''362 8'''66,0
+|---
+! 10
+| '''3 628 800''' || '''3''' 598 696  || '''3 628''' 685
+|---
+! 15
+| '''1 307 674 368 000''' || '''1,30'''0 431 × <math display="inline">10^{12}</math> || '''1,307 6'''65 × <math display="inline">10^{12}</math>
+|---
+! 20
+| '''2 432 902 008 176 640 000''' || '''2,4'''22 787 × <math display="inline">10^{18}</math> || '''2,432''' 882 × <math display="inline">10^{18}</math>
+|---
+! 25
+| '''15 511 210 043 330 985 984 000 000''' || '''1,5'''45 959 × <math display="inline">10^{25}</math> || '''1,551 1'''13 × <math display="inline">10^{25}</math>
+|---
+! 30
+| '''265 252 859 812 191 058 636 308 480 000 000''' || '''2,6'''45 171 × <math display="inline">10^{32}</math> || '''2,652 5'''19 × <math display="inline">10^{32}</math>
+|---
+! 40
+| '''815 915 283 247 897 734 345 611 269 596 115 894 272 000 000 000''' || '''8,1'''42 173 × <math display="inline">10^{47}</math> || '''8,159 1'''36 × <math display="inline">10^{47}</math>
+|}
+
+==Amawal==
+* Timzgit = constante
+* Ilaw = reel
+* Amizzwr = ordre
+* Tafllawt = resultat
+== Iɣbula ==
+'''<small>( en ) ( fr )</small>''' Tẓḍarm ad tafim amgrad ad ɣ Wikipidya tafransist ([[:fr:Formule_de_Stirling|Formule de Stirling]]) d Wikipidya tanglizt ([[:en:Stirling's_approximation|Stirling's approximation]]) rad gisn tafim uggar n ɣaylli yad illan ɣid.
+<references />
+<references />
+
+{{Aggur:Tusnakt/Tin imgradn}}
+
+[[Taggayt:Tusnakt]]
+[[Taggayt:Tussna]]
