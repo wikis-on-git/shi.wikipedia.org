@@ -1,0 +1,54 @@
+{{Amgrad icqqan}}
+
+Ɣ [[tusnakt]], Targadda nɣ tamyagart n '''Kuci–Scwarz''' (s [[Tutlayt Tanglizt|tanglizt]] : Cauchy–Schwarz), tettawsan ula s yism n targadda n '''Cauchy–Bunyakovsky–Schwarz''', tga yat targadda bahra istawhman ɣ [[tusnakt]] kullut, ar sis nswurri ɣ [[aljibr imzirg]], [[taslṭ]], [[tiẓri n tsqqart]] d kigan n igran yaḍni. Targadda ad issufɣt-id yan umusnak [[Fransa|afransis]] iga s yism [[Augustin-Louis Cauchy]] ɣ usggwas n 1821, sliɣ yufa [[Viktor Bunyakovsky]] yat targadda trwast akk ɣ mad izdin d aɣrd ɣ usggwas n 1859, mn bɛd yufatt daɣ yan umusnak [[Lalman|almani]] [[Hermann Amandus Schwarz]] ɣ usggwas n 1888<ref>'''<small>( en )</small>''' Steele, J. Michael (2004)[http://www-stat.wharton.upenn.edu/~steele/Publications/Books/CSMC/CSMC_index.html ''The Cauchy–Schwarz Master Class: an Introduction to the Art of Mathematical Inequalities'']</ref>.
+
+== Mad tettini ==
+Ar ttini targadda n Cauchy–Schwarz mas i akk sin imawayn <math display="inline">u</math> d <math display="inline">v</math> n yat [[Tallunt ufaris agnsan|tallunt gis afaris agnsan]] hann rad darnɣ tili
+
+<math>|\langle \mathbf{u},\mathbf{v}\rangle| ^2 \leq \langle \mathbf{u},\mathbf{u}\rangle \cdot \langle \mathbf{v},\mathbf{v}\rangle</math>
+
+maɣ <math>\langle\cdot,\cdot\rangle</math> iga yan [[Afaris agnsan|ufaris agnsan]]. S umdya afaris agnsan gis afaris afsnan n ilawn d ismlaln. S ɣmkad, iɣ nusi aẓur uzmir-sin ɣ tsgiwin s snat, d iɣ asn nga alugn. Ar nttafa targadda ad <ref name="Strang5">'''<small>( en )</small>''' Strang, Gilbert (19 July 2005). "3.2". ''Linear Algebra and its Applications'' (4th ed.). Stamford, CT: Cengage Learning. pp. 154–155. ISBN <bdi>978-0030105678</bdi>.</ref><ref name=":0">'''<small>( en )</small>''' Hunter, John K.; Nachtergaele, Bruno (2001). ''Applied Analysis''. World Scientific. ISBN <bdi>981-02-4191-7</bdi>.</ref>: 
+
+: <math>|\langle \mathbf{u},\mathbf{v}\rangle| \leq \|\mathbf{u}\|  \|\mathbf{v}\|.</math>
+
+D yat tɣawsa yaḍn, tasgiwin s snat gaddan iɣ <math display="inline">\mathbf{u}</math> d <math display="inline">\mathbf{v}</math> gan ilelliyn imzirgn (yaɛni gan imsadaɣn).<ref>'''<small>( en )</small>''' Bachmann, George; Narici, Lawrence; Beckenstein, Edward (2012-12-06). ''Fourier and Wavelet Analysis''. Springer Science & Business Media. p. 14. ISBN <bdi>9781461205050</bdi>.</ref><ref>'''<small>( en )</small>''' Hassani, Sadri (1999). ''Mathematical Physics: A Modern Introduction to Its Foundations''. Springer. p. 29. ISBN <bdi>0-387-98579-4</bdi>. <q>Equality holds iff <c|c>=0 or |c>=0. From the definition of |c>, we conclude that |a> and |b> must be proportional.</q></ref> 
+
+Iɣ <math display="inline">u_1,\ldots, u_n\in\mathbb C</math> d <math display="inline">v_1,\ldots, v_n\in\mathbb C</math> d ufaris agnsan iga afaris agnsan asmlal anaway, hann targadda tzḍar ad ttyura zund ɣikad (maɣ tirra n taɛṛṛaḍt ar sis nmmal unaftay n ismlaln): i <math>\mathbf{u},\mathbf{v}\in\mathbb C^n</math>, darnɣ 
+
+<math>\left|\langle \mathbf{u},\mathbf{v} \rangle\right|^2 =\left|\sum_{k=1}^{n}u_k\bar{v}_k\right|^2\leq \langle\mathbf{u},\mathbf{u}\rangle\langle\mathbf{v},\mathbf{v} \rangle = \left(\sum_{k=1}^{n}u_k\bar{u}_k\right)\left(\sum_{k=1}^{n}v_k\bar{v}_k\right) = \sum_{j=1}^n |u_j|^2 \sum_{k=1}^n |v_k|^2</math> 
+
+Ad t igan, 
+
+<math>|u_1\bar{v}_1 + \cdots + u_n \bar{v}_n|^2 \leq (|u_1|^2 + \cdots + |u_n|^2) (|v_1|^2 + \cdots + |v_n|^2)</math> 
+
+==Amawal==
+<div style="column-count:4;-moz-column-count:3;-webkit-column count:">
+*Targadda = inegalite
+*Aljibr imzirg = Algebre lineaire
+*Taslṭ = analyse
+*Tiẓri = theorie
+*Tasqqart = probabilite
+*Amusnak = mathematicien
+*Aɣrd = intagral
+*Amaway = vecteur
+*Tallunt = espace
+*Afaris = produit
+*Agnsan = interne
+*Afsnan = scalaire
+*Ilawn = reel
+*Ismlaln = complexe
+*Aẓur = racine
+*Uzmir-sin = carree
+*Alugn = norme
+*Tilelli timzirgt = independance lineaire
+*Imsadaɣn = paralleles
+*Anaway = standard
+*Anaftay = conjuge 
+</Div>
+
+== Isaɣuln ==
+<references />{{Aggur:Tusnakt/Tin imgradn}}
+[[en:Cauchy–Schwarz inequality]]
+
+[[Taggayt:Tusnakt]]
+[[Taggayt:Tussna]]
