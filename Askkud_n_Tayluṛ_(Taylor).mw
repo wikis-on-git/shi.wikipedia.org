@@ -1,0 +1,90 @@
+{{Amgrad icqqan}}[[Afaylu:Taylorspolynomialex.png|thumb|Asmdya n tasɣnt n ikspununsyal (s uzggʷaɣ) d agtful nns n Taylor s tfsna 4 ɣ tanqqiṭ n 0.]]
+Ɣ [[tusnakt]], slawan akkʷ ɣ taslṭ, '''Askkud n Taylor''' nɣ '''Tanfalit n Taylor''', s yism n amusnak angliz [[Brook Taylor]] nna st iɛdln ɣ usggʷwas n 1715, ar tmmal tanfalit ad mas kran tasɣnt itwazlamn ɣaydd n twal nẓḍar ad as naf yan ugtful nna iṭṭafn imuskirn itɛtamadn ɣar f izllumn n tasɣnt ann ɣ yat tanqqiṭ. Agtful ad ar as ittaẓ ɣ tidjiwṛa n tanqqiṭ ann. Tasɣnt tagtfult ad ar as nttini lbɛḍ n twal '''Agtful n Taylor'''.
+
+== Asnml ==
+
+=== Tanfalit tanawayt ===
+S yat tɣarast tanɣaṭ, ad ig:
+
+* <math>I</math> yan uzilal ilaw ;
+* <math>a</math> yan ufrdis n <math>I</math> ;
+* <math>E</math> yan usayrar amaway alugan ilaw ;
+* <math>f</math> yat tasɣnt zɣ <math>I</math> ar <math>E</math> ittuzlamn ɣ <math>a</math> ar yat tfsna bḍḍbṭ <math>n\geq1.</math>
+
+S man aya, i kraygat <math>x</math> illan ɣ <math>I</math>, darnɣ tanfalit n Taylor-Young:<math display="block">
+  f(x) = f(a)
+  + \frac{f'(a)}{1!}(x - a)
+  + \frac{f^{(2)}(a)}{2!}(x - a)^2
+  + \cdots
+  + \frac{f^{(n)}(a)}{n!}(x - a)^n
+  + R_n(x)
+</math>nɣ s tɣarast yaḍnin :
+
+<math display="block">
+  \displaystyle f(x) = \sum_{k=0}^n \frac{f^{(k)}(a)}{k!}(x-a)^k + R_n(x)
+</math>maɣ asagur <math>
+  R_{n}(x)
+</math> lli d iciḍn iga tasɣnt tawzizt taman <math>
+  (x-a)^n
+</math> ɣ tidjiwṛa n <math>
+  a
+</math>, s unamk n ur da tbayyan tasɣnt ad taman tisɣnin yaḍni li tt izwarn yɛni ur teṭṭaf yan usnfl imqqurn ɣ ammas n tasɣnt.
+
+=== Tinfaliyin yaḍnin ===
+S yan ubddl n umutti irxan, nẓḍar ad nara tanfalit n Taylor-Young s tɣarast ddaw as:
+
+<math display="block">
+  f(a + h) = f(a)
+  + \frac{f'(a)}{1!}h
+  + \frac{f^{(2)}(a)}{2!}h^2
+  + \cdots
+  + \frac{f^{(n)}(a)}{n!}h^n
+  + R_n(h)
+</math>nɣ s tɣarast yaḍnin :
+
+<math display="block">
+  \displaystyle f(a + h) = \sum_{k=0}^n \frac{f^{(k)}(a)}{k!}h^k + R_n(h)
+</math>maɣ asagur <math>
+  R_{n}(x)
+</math> lli d iciḍn iga tasɣnt tawzizt taman <math>
+  h^n
+</math> ɣ tidjiwṛa n 0.
+
+Talɣa y'ad ar sis nswurri lbɛḍ n twal iɣ nlla taman tidjiwṛa n <math>
+  a
+</math> (aynna issumkn i <math>
+  h
+</math> mẓẓiyn).
+
+== Ẓr ula ==
+
+* [[Alugaritm agaman]]
+* [[Asnful n Nyuṭun]]
+* [[Targadda n Cauchy–Schwarz|Targadda n Cauchy Schwarz]]
+* [[Tanfalit n Stirling]]
+
+== Amawal ==
+'''Tiguriwin'''
+<div style="column-count:3;-moz-column-count:3;-webkit-column count:">
+* Taslṭ = analyse
+* Tasɣnt = fonction
+* Itwazlamn = derivable
+* Tidjiwṛa = voisinage
+* Agtful = polynome
+* Imuskirn = coefficients
+* Asmdya = representation
+*Asayrar = espace
+*Amaway = vectoriel
+*Alugan = norme
+*Tawzizt = negligeable
+*Asagur = restes
+</Div>
+'''Imawaln n tusnakt n tmaziɣt'''
+
+Amawal umniḍ DGLAi n [[Asinag Agldan n Tussna Tamaziɣt]], s kraḍ tutlayin (tamaziɣt tatrart tamɣribit - tafransist - taɛrabt) <small>[https://tal.ircam.ma/dglai/lexieam.php <nowiki>[Alink nns]</nowiki>]</small>
+
+Amawal Tafsut n tusnakt - MCB Alger, Tiwi Uzzu s sin tutlayin (tamaziɣt taqbaylit - tafransist) <small>[http://adrar-inu.blogspot.com/2015/04/lexique-de-mathematiques-amawal-n.html <nowiki>[Alink nns]</nowiki>]</small>
+
+{{Aggur:Tusnakt/Tin imgradn}}
+[[Taggayt:Tusnakt]]
+[[Taggayt:Tussna]]
