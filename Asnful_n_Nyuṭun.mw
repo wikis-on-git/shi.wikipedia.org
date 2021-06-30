@@ -1,0 +1,172 @@
+{{Amgrad icqqan}}[[Afaylu:Binomial expansion visualisation.svg|thumb|Tannayt f mamnk asa itgga usɣlu n kran usnful.]]
+Tga '''tanfalit n usnful n Nyuṭun''' yat tanfalit [[tusnakt]] iskr-tt umusnak imqqurn [[Isḥaqq Nyutun|Isḥaq Nyuṭun]]<ref>S ṣṣaḥt, tanfalit ad tettussan yad zɣ tasut tis-X, slawann akk dar id bu-tusnakt ihindiyn, iɛrabn d ifarisiyn (Al-Karaji) d ɣ tasut tis-XIII, amusnak acinwi Yang Hui imlatt. Ɣ 1665, Nyuṭun iskr as asmata nns s tuẓḍurin ur gin ummidn.</ref> fad ad yaf usbuɣlu n kraygat taẓḍurt n kran usnful. Teṭṭaf ismawn yaḍna zund '''tanfalit n usnful''' nɣ '''tanfalit n Nyuṭun'''.
+
+== Mad tettini ==
+Iɣ gan <math>x</math> d <math>y</math> sin ifrdisn n kran uzbg (s umdya sin imḍanen ilawn nɣ ismlaln, sin igtfuln, sin isiruwn imkkuẓn nna dar illa nafs tiddi, atg.) nna ɣ tlla tasunflt<ref>Tafada ad tga ḍaṛuṛiyya, d tga tagdazalt i tidt n tanfalit i ''n'' = 2.</ref> (ad t-igan mas-d <math>xy = yx</math> — s umdya i isiruwn : <math>y</math> iga-tt isiruw n tulut) s ɣikkad, i kraygat <math>n</math> amḍan ummid agaman, nṭṭaf : 
+<center><math>(x+y)^n=\sum_{k=0}^n {n \choose k} x^{k} y^{n-k}=\sum_{k=0}^n {n \choose k} x^{n-k} y^k</math>,</center>
+Maɣ imḍanen
+
+<math>{n \choose k}=\frac{n!}{k!\,(n-k)!}</math>
+
+(Lbɛḍ n twal ar tt nttara ula <math>C_n^k</math>) gan imuskirn isnfal, « ! » ɛnan sis uskir d <math>x^{0}</math> afrdis-tiggt n uzbg.
+
+S usnfl ɣ tanfalit <math>y</math> s <math>-y</math>, ar nttafa:
+
+<math>(x-y)^n=\left(x+(-y)\right)^n=\sum_{k=0}^n {n \choose k} x^{n-k} (-y)^k</math>
+
+Imdyatn:
+
+:<math>\begin{array}{lclcl}
+n=2,& (x + y)^2 &= x^2 + 2xy + y^2,&(x - y)^2 &= x^2 - 2xy + y^2,\\
+n=3,& (x + y)^3 &= x^3 + 3x^2y + 3xy^2 + y^3,&(x - y)^3 &= x^3 - 3x^2y + 3xy^2 - y^3,\\
+n=4,& (x + y)^4 &= x^4 + 4x^3y + 6x^2y^2 + 4xy^3 + y^4,&&\\
+n=7,& (x + y)^7 &= x^7+7x^6y+21x^5y^2+35x^4y^3+35x^3y^4+21x^2y^5+7xy^6+y^7.&&
+\end{array}
+</math>
+
+== Amdya ==
+Ha asnful ad ittuyskar i id <math>n</math> mẓẓiyn:
+
+<math>\begin{align}
+(x+y)^0 & = 1, \\[8pt]
+(x+y)^1 & = x + y, \\[8pt]
+(x+y)^2 & = x^2 + 2xy + y^2, \\[8pt]
+(x+y)^3 & = x^3 + 3x^2y + 3xy^2 + y^3, \\[8pt]
+(x+y)^4 & = x^4 + 4x^3y + 6x^2y^2 + 4xy^3 + y^4, \\[8pt]
+(x+y)^5 & = x^5 + 5x^4y + 10x^3y^2 + 10x^2y^3 + 5xy^4 + y^5, \\[8pt]
+(x+y)^6 & = x^6 + 6x^5y + 15x^4y^2 + 20x^3y^3 + 15x^2y^4 + 6xy^5 + y^6, \\[8pt]
+(x+y)^7 & = x^7 + 7x^6y + 21x^5y^2 + 35x^4y^3 + 35x^3y^4 + 21x^2y^5 + 7xy^6 + y^7, \\[8pt]
+(x+y)^8 & = x^8 + 8x^7y + 28x^6y^2 + 56x^5y^3 + 70x^4y^4 + 56x^3y^5 + 28x^2y^6 + 8xy^7 + y^8.
+\end{align}
+</math>
+
+== Tummla ==
+Nẓḍar ad nsml tanfalit ad s tinawt n [[ullus]].<ref>[https://www.youtube.com/watch?v=PfxCvRZQIj0 Tummla n Asnful n Nyuṭun : s tinawt n ullus] <small>- AVIDYU YUTUB</small></ref>
+
+Tummla nɣ taflalit igan tamakazt uggar<ref>[https://www.youtube.com/watch?v=PfxCvRZQIj0 Tummla n Asnful n Nyuṭun : s tinawt n uddun] <small>- AVIDYU YUTUB</small></ref> ar tswurri s usfki n imuskirn isnfal <math display="inline">{n \choose k}</math> mas iga umḍan n tifulin n <math>k</math> ifrdisn ɣ yat tagrumma nna ɣ illa <math>n</math> ifrdisn. Kudnna nsbuɣla tanfalit
+
+:<math>(x+y)^n=(x+y)(x+y)\cdots(x+y)\qquad (n \text{ twal})</math>
+ar nttafa yat timrnit n iynfuln s talɣa n <math display="inline">x^{j}y^{k}</math> maɣ <math>j</math> d <math>k</math> ar mmaln s trtib ad nit uṭṭun n twal nna ɣ nxtar <math>x</math> nɣ <math>y</math> lliɣ tn nkka art nsbuɣlu. Illa darnɣ s bzziz <math display="inline">j = n - k</math>, acku kraygat twal ur ar gis ntxtar <math>y</math>, ar ntxtar <math>x</math>. S tɣarast yaḍna, maḥd darɣ <math display="inline">{n \choose k}</math> n tiɣarasin ur mrwasnin n lixtiyyar n <math>k</math> twal atig n <math>y</math> zɣ <math>n</math> tinfulin <math>(x+y)</math> isggt ddaw-as, aynful <math display="inline">x^{n-k}y^{k}</math> ixṣṣa ad ibayn ɣ usbuɣlu d umuskir <math display="inline">{n \choose k}</math>.
+
+=== Tummla s ullus ===
+Ar nsiggil ad nml masd tanfalit ad n <math display="inline">(a+b)^n=\sum_{k=0}^n {n \choose k} a^{k} b^{n-k}</math> tṣḥa s tinawt n [[ullus]] <math>\forall n \in \mathbb{N} </math> d <math display="inline">\forall \{a,b\} \in \mathbb{A}^2 </math> s <math>ab=ba</math> (maɣ <math>\mathbb{A} </math> iga uzbg mknna ira igt)
+
+==== Tazwart ====
+Iɣ <math> n = 0</math>
+
+<math>(a+b)^0 = 1</math>
+
+<math>\textstyle {0 \choose 0} a^{0}b^{0-0} = 1</math>
+
+Tazwart n tanfalit tṣḥa
+
+==== Taɣaldt ====
+Rad nɣal mas tanfalit ad tṣḥa ar twala n <math>n</math>
+
+<math> (a+b)^{n+1} = (a+b).(a+b)^{n}</math>
+
+<math> \Rightarrow (a+b).\sum_{k=0}^{n} \textstyle {n \choose k} a^{k}b^{n-k} </math>
+
+<math> \Rightarrow \left(\sum_{k=0}^{n} \textstyle {n \choose k} a^{k+1}b^{n-k}\right) + \left(\sum_{k=0}^{n} \textstyle {n \choose k} a^{k}b^{n+1-k}\right) </math>
+
+Ad nsrs <math>p = k+1</math>
+
+<math>\Rightarrow \left(\sum_{p=1}^{n+1} \textstyle {n \choose p-1} a^{p}b^{n+1-p}\right) + \left(\sum_{k=0}^{n} \textstyle {n \choose k} a^{k}b^{n+1-k}\right)</math>
+
+<math> \Rightarrow \left(\sum_{k=1}^{n} \left(\textstyle {n \choose k-1} + \textstyle {n \choose k}\right) a^{k}b^{n+1-k}\right) + \textstyle {n \choose 0}a^{0}b^{n+1} + \textstyle {n \choose n}a^{n+1}b^{0}</math>
+
+<math> \Rightarrow \left(\sum_{k=1}^{n} \textstyle {n+1 \choose k}a^{k}b^{n+1-k}\right) + \textstyle {n+1 \choose 0}a^{0}b^{n+1} + \textstyle {n+1 \choose n+1}a^{n+1}b^{0}</math>
+
+<math>\Rightarrow \left(\sum_{k=0}^{n+1} \textstyle {n+1 \choose k}a^{k}b^{n+1-k}\right)</math>
+
+==== Amsgra ====
+S tifadiwin lli nfka i <math>a</math> d <math>b</math>, tanfalit <math>(a+b)^n = \sum_{k=0}^{n} \textstyle {n \choose k} a^{k}b^{n-k}</math> tṣḥa i <math>\forall n \in \mathbb{N} </math> .
+
+== Asmata ==
+Nẓḍar ad nals i usbuɣlu s ullus fad ad nml [[tanfalit n Laybniz]] i tazllumt tis-<math>n</math> n kran ufaris.
+
+Taɣarast tamsuddst n tawlawalt ad aɣ yujjan ad nskr asmata n tulut agtful
+
+<center><math>(X+Y)^n=\sum_{k=0}^n {n \choose k}X^{n-k}Y^k</math></center>
+
+s
+
+<center><math>\prod_{i=1}^n(X+Y_i)=\sum_{k=0}^n\sigma_k(Y_1,\ldots,Y_n)X^{n-k}</math>,</center>
+
+maɣ id <math>\sigma_{k}</math> nɛna sisn igtfuln ujjuṛn ifrdasn.
+
+Nẓḍar ula ad nskr asmata n tanfalit ad s timrniyin n <math>m</math> irman ismlaln lan yat tuẓḍurt tummidt <math>n</math> 
+
+<math display="block">\left( \sum_{i=1}^m x_i \right)^n = \sum_{\left|\vec k\right|=n}
+{n\choose\vec k} \prod_{i=1}^m x_i^{k_i}</math>d s imksanen ur gin ummidn nɣ gan ummidn izdrn.
+
+== Ẓr ula ==
+
+* [[Asaḍuf n id kusinus]]
+* [[Targadda n Cauchy–Schwarz]]
+* [[Alugaritm agaman]]
+* [[Asktiɣmr]]
+
+== Tiɣbula ==
+
+==== Isaɣuln ====
+<references />
+
+==== Tinidlisn d izdayn ====
+<abbr>'''<small>(en)</small>'''</abbr> [[:fr:Julian_Coolidge|J. L. Coolidge]], « The Story of the Binomial Theorem », ''Amer. Math. Monthly'', <abbr>vol.</abbr> 56, <abbr>n<sup>o</sup></abbr> 3,‎ 1949, <abbr>p.</abbr> 147-157 <small>(JSTOR 2305028, [https://web.archive.org/web/20180930214627/http://steiner.math.nthu.edu.tw/disk5/js/geometry/binomial.pdf Ɣr ɣ wanṭirnit])</small>
+
+'''<small>(en)</small>''' Graham, Ronald; Knuth, Donald; Patashnik, Oren (1994). "(5) Binomial Coefficients". ''Concrete Mathematics'' (2nd ed.). Addison Wesley. pp. 153–256. ISBN <bdi>978-0-201-55802-9</bdi>. OCLC 17649857.
+
+'''<small>(en)</small>''' Bag, Amulya Kumar (1966). "Binomial theorem in ancient India". ''Indian J. History Sci''. '''1''' (1): 68–74.
+
+'''<small>(en)</small>''' Solomentsev, E.D. (2001) [1994], [https://encyclopediaofmath.org/index.php?title=Newton_binomial " Newton binomial "], , ''Encyclopedia of Mathematics'', EMS Press
+
+==Amawal==
+
+==== Tiguriwin ====
+<div style="column-count:3;-moz-column-count:3;-webkit-column count:">
+*Tanfalit = formule
+*Asnful = binome
+*Amusnak = mathematicien
+*Asbuɣlu = developpement
+*Taẓḍurt = puissance
+*Azbg = anneau
+*Afrdis = element
+*Amḍan = nombre
+*Ilaw = reel
+*Asmlal = complexe
+*Agtful = polynome
+*Isiruw = matrice
+*Amkkuẓ = carre
+*Tasunflt = commutativite
+*Tulut = identite
+*Ummid = entier
+*Agaman = naturel
+*Amuskir = coeficient
+*Uskir = factorielle
+*Afrdis-tiggt = element unite
+*Tinawt = énoncé
+*Ullus = recurence
+*Asfki = definion
+*Amakaz = intuitif
+*Tafult = partie
+*Tagrumma = ensemble
+*Timrnit = somme
+*Iynfuln = monômes
+*Tazllumt = derive
+*Tamsuddst = derive
+*Awlawal = variant
+*Agtful = polynimiale
+*Ujjuṛ = symetrique
+*Afrdas = elementaire
+*Irm = terme
+*Amksan = exposant
+*Uzdir = negatif
+</Div>
+
+==== Imawaln ====
+Amawal umniḍ DGLAi n [[Asinag Agldan n Tussna Tamaziɣt]], s kraḍ tutlayin (tamaziɣt tatrart tamɣribit - tafransist - taɛrabt) [https://tal.ircam.ma/dglai/lexieam.php <small><nowiki>[Alink nns]</nowiki></small>]
+
+Amawal Tafsut n tusnakt - MCB Alger, Tiwi Uzzu s sin tutlayin (tamaziɣt taqbaylit - tafransist) <small>[http://adrar-inu.blogspot.com/2015/04/lexique-de-mathematiques-amawal-n.html <nowiki>[Alink nns]</nowiki>]</small>{{Aggur:Tusnakt/Tin imgradn}}
+[[Taggayt:Tusnakt]]
+[[Taggayt:Tussna]]
