@@ -1,0 +1,158 @@
+{| style="border: 1px solid rgb(200,200,200); color: black; margin: 0 0 0.5em 1em; background-color: rgb(255, 255, 255); padding: 5px; float: right; clear: right; width: 280px; text-align: left; vertical-align: top; font-size: 90%; line-height: 1.1em" cellspacing="3"
+|-
+| colspan="2" style="color:white;text-align:center;background-color:navy;font-weight:bold;font-size:150%; height:35px; max-height:70px;line-height: 1.2em; " class="entete defaut" | {{{assaɣ|{{PAGENAME}}}}}
+|-
+{{#if:{{{azwl|}}}| 
+! colspan="2" style="vertical-align:top;text-align:center;line-height: 1.5em"{{!}}'''{{{azwl}}}'''
+{{!-}}
+|}}
+{{!-}}
+{{#if:{{{tawlaft|}}}|
+! align=center colspan=2 {{!}} [[{{{tawlaft}}}{{!}}{{ #if:{{{tiɣzi tawlaft|}}}|{{{tiɣzi_tawlaft}}}|200px|}}|center]]
+{{!-}}
+|}}
+{{#if:{{{afruri|}}}|
+! colspan="2" style="text-align:center;" {{!}} <div style="line-height:12px;font-size: 85%;">{{{afruri}}}</div>
+{{!-}}
+|}}
+{{#if:{{{talalit|}}}|
+! colspan="2" style="text-align:center;" {{!}} <div style="line-height:12px;font-size: 85%;">{{{talalit}}}</div>
+{{!-}}
+|}}
+{{#if:{{{adɣar_n_talalit |}}}|
+! colspan="2" style="text-align:center;" {{!}} <div style="line-height:12px;font-size: 85%;">{{{adɣar_n_talalit }}}</div>
+{{!-}}
+|}}
+{{#if:{{{asakud_n_tamṭṭalt |}}}|
+! colspan="2" style="text-align:center;" {{!}} <div style="line-height:12px;font-size: 85%;">{{{asakud_n_tamṭṭalt }}}</div>
+{{!-}}
+|}}
+{{#if:{{{adɣat_n_tamṭṭalt|}}}|
+! colspan="2" style="text-align:center;" {{!}} <div style="line-height:12px;font-size: 85%;">{{{adɣat_n_tamṭṭalt}}}</div>
+{{!-}}
+|}}
+{{#if:{{{immis|}}}|
+! colspan="2" style="text-align:center;" {{!}} <div style="line-height:12px;font-size: 85%;">{{{immis}}}</div>
+{{!-}}
+|}}
+{{#if:{{{babas|}}}|
+! colspan="2" style="text-align:center;" {{!}} <div style="line-height:12px;font-size: 85%;">{{{babas}}}</div>
+{{!-}}
+|}}
+{{#if:{{{tarwa|}}}|
+! colspan="2" style="text-align:center;" {{!}} <div style="line-height:12px;font-size: 85%;">{{{tarwa}}}</div>
+{{!-}}
+|}}
+{{#if:{{{tuzdɣt|}}}|
+! colspan="2" style="text-align:center;" {{!}} <div style="line-height:12px;font-size: 85%;">{{{tuzdɣt}}}</div>
+{{!-}}
+|}}
+{{#if:{{{izwln |}}}|
+! colspan="2" style="text-align:center;" {{!}} <div style="line-height:12px;font-size: 85%;">{{{izwln }}}</div>
+{{!-}}
+|}}
+| colspan="2"|<hr />
+|-
+{{#if:{{{tagldit|}}}| 
+! colspan="3" style="color:black;text-align:center;background-color:lavender;font-weight:bold;font-size:100%; height:20px; max-height:25px; line-height: 1.2em"{{!}}'''Tagldit'''
+|}}
+{{!-}}
+{{#if:{{{tagldit|}}}| 
+! colspan="2" style="vertical-align:top;text-align:center;line-height: 1.5em"{{!}}'''{{{tagldit}}}'''
+{{!-}}
+|}}
+{{#if:{{{ambdad|}}}|
+! style="vertical-align:top;line-height: 1.4em" {{!}}Ambdad
+! style="text-align:left;line-height: 1.4em" {{!}}{{{ambdad}}}
+{{!-}}
+|}}
+{{#if:{{{sacre|}}}| 
+! style="vertical-align:top;line-height: 1.4em"{{!}}Sacre
+! style="text-align:left;line-height: 1.4em"{{!}}{{{sacre}}}
+{{!-}}
+|}}
+{{#if:{{{tagallit|}}}| 
+! style="vertical-align:top;line-height: 1.4em"{{!}}Prestation de serment
+! style="text-align:left;line-height: 1.4em"{{!}}{{{tagallit}}}
+{{!-}}
+|}}
+{{#if:{{{tusut|}}}| 
+! style="vertical-align:top;line-height: 1.4em"{{!}}Tusut
+! style="text-align:left;line-height: 1.4em"{{!}}{{{tusut}}}
+{{!-}}
+|}}
+{{#if:{{{tagldatawja|}}}| 
+! style="vertical-align:top;line-height: 1.4em"{{!}}Tagldatawja
+! style="text-align:left;line-height: 1.4em"{{!}}{{{tagldatawja}}}
+{{!-}}
+|}}
+{{#if:{{{izwln|}}}| 
+! style="vertical-align:top;line-height: 1.4em"{{!}}Azwl iẓun
+! style="text-align:left;line-height: 1.4em"{{!}}{{{izwln}}}
+{{!-}}
+|}}
+{{#if:{{{izli|}}}| 
+! style="vertical-align:top;line-height: 1.4em"{{!}}Izli agldan
+! style="text-align:left;line-height: 1.4em"{{!}}{{{izli}}}
+{{!-}}
+|}}
+{{#if:{{{izli_tagtam|}}}| 
+! style="vertical-align:top;line-height: 1.4em"{{!}}Izli Tagldit Tamqrant
+! style="text-align:left;line-height: 1.4em"{{!}}{{{izli_tagtam}}}
+{{!-}}
+|}}
+{{#if:{{{adrim|}}}| 
+! style="vertical-align:top;line-height: 1.4em"{{!}}Adrim agldan
+! style="text-align:left;line-height: 1.4em"{{!}}{{{adrim}}}
+{{!-}}
+|}}
+{{#if:{{{amzwaru_ns |}}}| 
+! style="vertical-align:top;line-height: 1.4em"{{!}}Amzwaru ns
+! style="text-align:left;line-height: 1.4em"{{!}}{{{amzwaru_ns}}}
+{{!-}}
+|}}
+{{#if:{{{amggaru_ns|}}}| 
+! style="vertical-align:top;line-height: 1.4em"{{!}} Amggaru ns
+! style="text-align:left;line-height: 1.4em"{{!}}{{{amggaru_ns }}}
+{{!-}}
+|}}
+{{#if:{{{amkkus_ns|}}}| 
+! style="vertical-align:top;line-height: 1.4em"{{!}}Amkkus  
+! style="text-align:left;line-height: 1.4em"{{!}}{{{amkkus_ns}}}
+{{!-}}
+|}}
+{{#if:{{{aɣatar_n_tanbaṭ|}}}| 
+! style="vertical-align:top;line-height: 1.4em"{{!}}Aɣatar (i-n) n tanbaṭ
+! style="text-align:left;line-height: 1.4em"{{!}}{{{aɣatar_n_tanbaṭ}}}
+{{!-}}
+|}}
+{{#if:{{{amawsas_tanbaṭ|}}}| 
+! style="vertical-align:top;line-height: 1.4em"{{!}}Amawsas n tanbaṭ
+! style="text-align:left;line-height: 1.4em"{{!}}{{{amawsas_tanbaṭ}}}
+{{!-}}
+|}}
+{{#if:{{{amawsas_amswaru|}}}| 
+! style="vertical-align:top;line-height: 1.4em"{{!}}Amawsas amswaru (i-n)
+! style="text-align:left;line-height: 1.4em"{{!}}{{{amawsas_amswaru}}}
+{{!-}}
+|}}
+{{#if:{{{amawsas_aɣatar|}}}|
+! style="vertical-align:top;line-height: 1.4em"{{!}}Amawsas aɣatar(i-n)-<br />aɣatar(i-n)
+! style="text-align:left;line-height: 1.4em"{{!}}{{{amawsas_aɣatar}}}
+{{!-}}
+|}}
+{{#if:{{{akraj|}}}|
+! style="vertical-align:top;line-height: 1.4em"{{!}}Akrraj)
+! style="text-align:left;line-height: 1.4em"{{!}}{{{akrraj}}}
+{{!-}}
+|}}
+{{#if:{{{taglda|}}}| 
+! colspan="2"{{!}}<hr />
+{{!-}}
+|}}
+
+|}
+
+'''Imɣi''' (Asget : '''imɣan''' neɣ '''imɣyan''') igat kullu madd imɣin seg wakal, am [[Asklu|iskla]] neɣ tuga.
+
+
