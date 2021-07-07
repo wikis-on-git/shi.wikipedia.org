@@ -1,4 +1,29 @@
-.
+{{Isksal n waggur}}
+{{Tazwurt n waggur
+| Tawlaft = Co-op_activism4.svg
+| Assaɣ n waggur = Anmuggar
+}}
+{{Tazwart}}
+{{Amnni
+ | Azday = Template:{{SUBPAGENAME}}/Tazwurt
+ | Azwl = Tazwurt
+ | Azwl-aklu-abuḍ = linear-gradient(to right,#FFFF00,#00FF00,#0000FF)
+ | Tawlaft = Circle-icons-profile.svg
+ | Tamamkt = flex: 1 1 auto;
+ | Tumayt = {{Template:{{SUBPAGENAME}}/Tazwurt}}
+}}
+
+{{Amnni
+ | Azday = Template:{{SUBPAGENAME}}/imaran n Wikipidya taclḥit
+ | Azwl = imaran n Wikipidya taclḥit
+ | Azwl-aklu-abuḍ = linear-gradient(to right,#FFFF00,#00FF00,#0000FF)
+ | Tawlaft = Circle-icons-profile.svg
+ | Tamamkt = flex: 1 1 auto;
+ | Tumayt = {{Template:Aggur:{{SUBPAGENAME}}/imaran n Wikipidya taclḥit}}
+}}
+
+
+
 <div style="padding-left:3em; padding-right:3em; text-align:center;">[[file:Test371319.png|100px|right]]
 [[file:Test371319.png|100px|left]]
 <div style=font-size:40px>Brrkat ɣ Tigmmi n umsawal</div><div style=font-size:20px>Wikipidya s Taclḥit</div></div></br>
