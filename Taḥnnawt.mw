@@ -1,1 +1,46 @@
-Tga '''Taḥnnawt''' yat tiɣrmt ɣ Lmɣrib. Tlla ɣ tmnaḍt n [[Lḥuz]], taggug s 35 km f tiɣrmt n Mṛṛakc.
+{{Databox|fr=Tahannaout}}Tga '''Taḥnnawt''' yat tiɣrmt ɣ Lmɣrib. Tlla ɣ tmnaḍt n [[Lḥuz]], taggug s 35 km f tiɣrmt n [[Mṛṛakc]].
+== Asnmkta ==
+Ar ittini usiḍn lli ittyuskar ɣ usggʷas n 2014 mas<ref>[http://rgphentableaux.hcp.ma/ RGPH 2014 - Site HCP]</ref>:
+
+=== Aslmd ===
+
+* Tigmiḍi n taqubbanit (middn lli ur ssin ad aqran wala ad ttaran) : 21,7%
+* Tigmiḍi n imzdaɣ lli iɣran ar usinan n usmdi nɣd uggar : 21,3%
+
+=== Tadamsa ===
+
+* Tigmiḍi n imzdaɣ lli llan ɣ isggasn nnsn n twuri : 47,8%
+* Tigmiḍi n tarwuri (middn lli ur ṭṭafn tawuri) : 11,4%
+* Tigmiḍi n imzdaɣ lli swurin dar lmxzn (nɣ kantin swurin gis) : 28,8%
+* Tigmiḍi n imzdaɣ lli swurin ɣ uslig (nɣ kantin swurin gis) : 44,2%
+
+==Tiwlafin==
+<gallery>
+file:Tahnaout Marrakech Morroco.jpg|Yat tagant ɣ Taḥnnawt 
+file:Tahnawt-Douar Sour-Rivier.jpg|Yan wasif ɣ yan udwar ɣ Taḥnnawt
+</gallery>
+
+==Tadimugrafit==
+<timeline>
+ImageSize = width:220 height:220
+PlotArea = left:70 right:40 top:20 bottom:20
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:7243
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:gray1
+PlotData =
+  bar:1994 color:gray1 width:1 
+   from:0 till:5697 width:15 text:5697 textcolor:red  fontsize:8px
+  bar:2004 color:gray1 width:1 
+   from:0 till:6585 width:15  text:6585 textcolor:red  fontsize:8px
+</timeline>
+==Tiɣbula==
+<references />
+
+== Ɣaylli sis izdin ==
+{{Commons izddar|Tahannaout|Taḥnnawt}}{{Tasga n Mrrakc-Asfi}}{{Amud/Lmɣrib}}
+[[Taggayt:Timdinin n Lmɣrib]]
+[[Taggayt:Taɣrma]]
