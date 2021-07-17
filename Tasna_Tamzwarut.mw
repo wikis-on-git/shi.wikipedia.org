@@ -76,14 +76,16 @@
 
 {{Portada:Sección
 |id = wmfsp
-|encabezado =  Anɣmis g tutlayt :
+|encabezado =  Anɣmis g tutlayt
 |contenido ={{Tasna Tamzwarut/Anɣmis g tutlayt}}
 }}
 
 {{Portada:Sección
 |id = wmfsp
-|encabezado =  S tmktayt : 
+|encabezado =  S tmktayt
 |contenido ={{Tasna Tamzwarut/S tmktayt}}
+|acciones =
+* {{Botón enlazable 2|Lislam|Ɣr uggar}}
 }}
 
 </div>
