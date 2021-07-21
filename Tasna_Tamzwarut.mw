@@ -29,7 +29,6 @@
 }}
 
 {{Aggur:Tigzmi
-|id = tfa
 |Tazwlt = 
 |Azwl = <h2>Iggura</h2>
 |Tumayt = {{Iggura}}
@@ -43,27 +42,22 @@
 <div class="main-wrapper-column">
 
 {{Aggur:Tigzmi
-|id = cur
 |Tazwlt = <!-- Actualidad -->
 |Azwl = Tazwart
 |Tumayt = {{Tasna Tamzwarut/Tazwurt}}
-|acciones especiales = 0
 |Ɣr uggar =Amẓli:Statistiques
 |Azday = Template:Amgrad n ɣassad
 }}
 
 {{Aggur:Tigzmi
-|id = tfa
 |Tazwlt = Tawlaft n ɣassad
 |Azwl = Tizʷrgan
 |Tumayt = {{Tasna Tamzwarut/Tawlaft n wass}}
-|imagen principal = 1
 |Ɣr uggar =Tizurgan
 |Azday = Template:Amgrad n ɣassad
 }}
 
 {{Aggur:Tigzmi
-|id = wmfsp
 |Azwl =  Anɣmis g tutlayt
 |Tumayt ={{Tasna Tamzwarut/Anɣmis g tutlayt}}
 |Ɣr uggar = Talɣa:Tasna Tamzwarut/Anɣmis g tutlayt
@@ -71,7 +65,6 @@
 }}
 
 {{Aggur:Tigzmi
-|id = wmfsp
 |Azwl =  S tmktayt
 |Tumayt ={{Tasna Tamzwarut/S tmktayt}}
 |Azday=Template:Tasna Tamzwarut/S tmktayt
@@ -84,7 +77,6 @@
 </div>
 
 {{Aggur:Tigzmi
-|id = wmfsp
 |Azwl =  Awsat ɣ Wikipidya
 |Tumayt ={{Tasna Tamzwarut/Amgrad Amaynu}}
 |Ɣr uggar = Tiwisi:Taɣarast n tirra
