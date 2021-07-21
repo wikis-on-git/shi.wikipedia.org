@@ -16,7 +16,7 @@
 {{#if: {{Portada:Destacado|mostrar=extras}} |
 : ''Anteriores:'' {{Portada:Destacado|mostrar=extras}} }}
 |imagen principal = 1
-|Azday = Talɣa:Amgrad n ɣassad
+|Azday = Template:Amgrad n ɣassad
 |Ɣr uggar = Lḥaj Blɛid
 }}
 
@@ -40,7 +40,7 @@
 |Azwl = <h2>Iggura</h2>
 |Tumayt = {{Iggura}}
 |Azday = Talɣa:Iggura
-|Ɣr uggar = Template:Aggurn
+|Ɣr uggar = Talɣa:Aggurn
 }}
 </div>
 
