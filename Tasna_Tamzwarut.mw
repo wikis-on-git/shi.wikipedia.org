@@ -26,14 +26,13 @@
 |Tazwlt = Amgrad ifulkin
 |Azwl = [[Asif n Wansifen|Asif n Wansifn]]
 |Tumayt = {{Tasna Tamzwarut/Amgrad ifulkin}}
-|Timgga =
-* {{Botón enlazable 2|Asif n Wansifen|Ɣr uggar}}
-* <span class="nomobile">{{Portada:Menú | Wikipedia:Artículos destacados/Índice |Aggʷ nn f akkʷ imgradn iẓiln}}</span>
 |opciones =
 * {{Portada:Menú | Wikipedia:Candidatos a artículos destacados | Candidatos }}
 {{#if: {{Portada:Destacado|mostrar=extras}} |
 : ''Anteriores:'' {{Portada:Destacado|mostrar=extras}} }}
 |imagen principal = 1
+|Ɣr uggar = Asif n Wansifen
+
 }}
 
 {{Aggur:Tigzmi
@@ -42,6 +41,7 @@
 |Azwl = Iggura
 |Tumayt = {{Iggura}}
 |Azday = Talɣa:Iggura
+|Ɣr uggar = Template:Aggurn
 }}
 </div>
 
@@ -51,14 +51,13 @@
 |Tazwlt = <!-- Actualidad -->
 |Azwl = Tazwart
 |Tumayt = {{Tasna Tamzwarut/Tazwurt}}
-|Timgga =
-* {{Portada:Botón |Amẓli:Statistiques|Ẓṛ asnmkta}}
 |acciones especiales = 0
 |opciones =
 * {{Portada:Menú | :Categoría:Actualidad | Categoría de actualidad }}
 * {{Portada:Menú | {{CURRENTYEAR}} | Año {{CURRENTYEAR}} }}
 * {{Portada:Menú | :Categoría:{{CURRENTYEAR}} | Categoría {{CURRENTYEAR}} }}
 * {{Portada:Menú | Plantilla:Portada:Actualidad | Plantilla }}
+|Ɣr uggar =Amẓli:Statistiques
 }}
 
 {{Aggur:Tigzmi
@@ -66,19 +65,19 @@
 |Tazwlt = Tawlaft n ɣassad
 |Azwl = Tizʷrgan
 |Tumayt = {{Tasna Tamzwarut/Tawlaft n wass}}
-|Timgga =
-* {{Botón enlazable 2|Tizurgan|Ɣr fllas}}
 |opciones =
 * {{Portada:Menú | Wikipedia:Candidatos a artículos destacados | Candidatos }}
 {{#if: {{Portada:Destacado|mostrar=extras}} |
 : ''Anteriores:'' {{Portada:Destacado|mostrar=extras}} }}
 |imagen principal = 1
+|Ɣr uggar =Tizurgan
 }}
 
 {{Aggur:Tigzmi
 |id = wmfsp
 |Azwl =  Anɣmis g tutlayt
 |Tumayt ={{Tasna Tamzwarut/Anɣmis g tutlayt}}
+|Ɣr uggar = Talɣa:Tasna Tamzwarut/Anɣmis g tutlayt
 }}
 
 {{Aggur:Tigzmi
@@ -88,6 +87,7 @@
 |Timgga =
 * {{Botón enlazable 2|Lislam|Ɣr uggar}}
 |Azday=Template:Tasna Tamzwarut/S tmktayt
+|Ɣr uggar = Tutlayt taclḥit
 }}
 
 </div>
