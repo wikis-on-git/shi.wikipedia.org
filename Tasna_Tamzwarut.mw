@@ -13,9 +13,13 @@
 |Tumayt = {{Amgrad n ɣassad}}
 |Timgga =
 * {{Botón enlazable 2|Lḥaj Blɛid|Ɣr uggar}}
-
+* <span class="nomobile">{{Portada:Menú | Wikipedia:Artículos destacados/Índice |Aggʷ nn f akkʷ imgradn iẓiln}}</span>
+|opciones =
+* {{Portada:Menú | Wikipedia:Candidatos a artículos destacados | Candidatos }}
+{{#if: {{Portada:Destacado|mostrar=extras}} |
+: ''Anteriores:'' {{Portada:Destacado|mostrar=extras}} }}
 |imagen principal = 1
-|Azday = Template:Amgrad n ɣassad
+|Azday = Talɣa:Amgrad n ɣassad
 }}
 
 {{Aggur:Tigzmi
@@ -38,6 +42,7 @@
 |Tazwlt = 
 |Azwl = Iggura
 |Tumayt = {{Iggura}}
+|Azday = Talɣa:Iggura
 }}
 </div>
 
