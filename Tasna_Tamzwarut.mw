@@ -6,7 +6,7 @@
 {{Nḍu|20px}}
 <div class="main-wrapper">
 <div class="main-wrapper-column">
-{{Portada:Sección
+{{Aggur:Tigzmi
 |id = tfa
 |Tazwlt = Amgrad n ɣassad
 |Azwl = [[Lḥaj Blɛid]]
@@ -21,7 +21,7 @@
 |imagen principal = 1
 }}
 
-{{Portada:Sección
+{{Aggur:Tigzmi
 |id = tfa
 |Tazwlt = Amgrad ifulkin
 |Azwl = [[Asif n Wansifen|Asif n Wansifn]]
@@ -36,7 +36,7 @@
 |imagen principal = 1
 }}
 
-{{Portada:Sección
+{{Aggur:Tigzmi
 |id = tfa
 |Tazwlt = 
 |Azwl = Iggura
@@ -45,7 +45,7 @@
 </div>
 
 <div class="main-wrapper-column">
-{{Portada:Sección
+{{Aggur:Tigzmi
 |id = cur
 |Tazwlt = <!-- Actualidad -->
 |Azwl = Tazwart
@@ -60,7 +60,7 @@
 * {{Portada:Menú | Plantilla:Portada:Actualidad | Plantilla }}
 }}
 
-{{Portada:Sección
+{{Aggur:Tigzmi
 |id = tfa
 |Tazwlt = Tawlaft n ɣassad
 |Azwl = Tizʷrgan
@@ -74,13 +74,13 @@
 |imagen principal = 1
 }}
 
-{{Portada:Sección
+{{Aggur:Tigzmi
 |id = wmfsp
 |Azwl =  Anɣmis g tutlayt
 |Tumayt ={{Tasna Tamzwarut/Anɣmis g tutlayt}}
 }}
 
-{{Portada:Sección
+{{Aggur:Tigzmi
 |id = wmfsp
 |Azwl =  S tmktayt
 |Tumayt ={{Tasna Tamzwarut/S tmktayt}}
@@ -92,7 +92,7 @@
 
 </div>
 
-{{Portada:Sección
+{{Aggur:Tigzmi
 |id = wmfsp
 |Azwl =  Awsat ɣ Wikipidya
 |Tumayt ={{Tasna Tamzwarut/Amgrad Amaynu}}
