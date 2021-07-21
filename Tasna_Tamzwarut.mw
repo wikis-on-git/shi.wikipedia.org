@@ -1,5 +1,5 @@
 <templatestyles src="Plantilla:Portada/OOUI/styles.css" />
-{{Portada:Encabezado/OOUI}}
+{{Portada:Azwl/OOUI}}
 {{Tazwart}}
 
 {{Askkil amaziɣ}}
@@ -9,7 +9,7 @@
 {{Portada:Sección
 |id = tfa
 |nombre = Amgrad n ɣassad
-|encabezado = [[Lḥaj Blɛid]]
+|Azwl = [[Lḥaj Blɛid]]
 |Tumayt = {{Amgrad n ɣassad}}
 |acciones =
 * {{Botón enlazable 2|Lḥaj Blɛid|Ɣr uggar}}
@@ -24,7 +24,7 @@
 {{Portada:Sección
 |id = tfa
 |nombre = Amgrad ifulkin
-|encabezado = [[Asif n Wansifen|Asif n Wansifn]]
+|Azwl = [[Asif n Wansifen|Asif n Wansifn]]
 |Tumayt = {{Tasna Tamzwarut/Amgrad ifulkin}}
 |acciones =
 * {{Botón enlazable 2|Asif n Wansifen|Ɣr uggar}}
@@ -39,7 +39,7 @@
 {{Portada:Sección
 |id = tfa
 |nombre = 
-|encabezado = Iggura
+|Azwl = Iggura
 |Tumayt = {{Iggura}}
 }}
 </div>
@@ -48,7 +48,7 @@
 {{Portada:Sección
 |id = cur
 |nombre = <!-- Actualidad -->
-|encabezado = Tazwart
+|Azwl = Tazwart
 |Tumayt = {{Tasna Tamzwarut/Tazwurt}}
 |acciones =
 * {{Portada:Botón |Amẓli:Statistiques|Ẓṛ asnmkta}}
@@ -63,7 +63,7 @@
 {{Portada:Sección
 |id = tfa
 |nombre = Tawlaft n ɣassad
-|encabezado = Tizʷrgan
+|Azwl = Tizʷrgan
 |Tumayt = {{Tasna Tamzwarut/Tawlaft n wass}}
 |acciones =
 * {{Botón enlazable 2|Tizurgan|Ɣr fllas}}
@@ -76,13 +76,13 @@
 
 {{Portada:Sección
 |id = wmfsp
-|encabezado =  Anɣmis g tutlayt
+|Azwl =  Anɣmis g tutlayt
 |Tumayt ={{Tasna Tamzwarut/Anɣmis g tutlayt}}
 }}
 
 {{Portada:Sección
 |id = wmfsp
-|encabezado =  S tmktayt
+|Azwl =  S tmktayt
 |Tumayt ={{Tasna Tamzwarut/S tmktayt}}
 |acciones =
 * {{Botón enlazable 2|Lislam|Ɣr uggar}}
@@ -94,7 +94,7 @@
 
 {{Portada:Sección
 |id = wmfsp
-|encabezado =  Awsat ɣ Wikipidya
+|Azwl =  Awsat ɣ Wikipidya
 |Tumayt ={{Tasna Tamzwarut/Amgrad Amaynu}}
 }}
 
