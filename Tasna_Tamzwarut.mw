@@ -14,6 +14,9 @@
 |Timgga =
 * <span class="nomobile">{{Portada:Menú | Wikipedia:Artículos destacados/Índice |Aggʷ nn f akkʷ imgradn iẓiln}}</span>
 |opciones =
+* {{Portada:Menú | Wikipedia:Candidatos a artículos destacados | Candidatos }}
+{{#if: {{Portada:Destacado|mostrar=extras}} |
+: ''Anteriores:'' {{Portada:Destacado|mostrar=extras}} }}
 |imagen principal = 1
 |Azday = Talɣa:Amgrad n ɣassad
 |Ɣr uggar = Lḥaj Blɛid
