@@ -8,7 +8,7 @@
 <div class="main-wrapper-column">
 {{Portada:Sección
 |id = tfa
-|nombre = Amgrad n ɣassad
+|Tazwlt = Amgrad n ɣassad
 |Azwl = [[Lḥaj Blɛid]]
 |Tumayt = {{Amgrad n ɣassad}}
 |acciones =
@@ -23,7 +23,7 @@
 
 {{Portada:Sección
 |id = tfa
-|nombre = Amgrad ifulkin
+|Tazwlt = Amgrad ifulkin
 |Azwl = [[Asif n Wansifen|Asif n Wansifn]]
 |Tumayt = {{Tasna Tamzwarut/Amgrad ifulkin}}
 |acciones =
@@ -38,7 +38,7 @@
 
 {{Portada:Sección
 |id = tfa
-|nombre = 
+|Tazwlt = 
 |Azwl = Iggura
 |Tumayt = {{Iggura}}
 }}
@@ -47,7 +47,7 @@
 <div class="main-wrapper-column">
 {{Portada:Sección
 |id = cur
-|nombre = <!-- Actualidad -->
+|Tazwlt = <!-- Actualidad -->
 |Azwl = Tazwart
 |Tumayt = {{Tasna Tamzwarut/Tazwurt}}
 |acciones =
@@ -62,7 +62,7 @@
 
 {{Portada:Sección
 |id = tfa
-|nombre = Tawlaft n ɣassad
+|Tazwlt = Tawlaft n ɣassad
 |Azwl = Tizʷrgan
 |Tumayt = {{Tasna Tamzwarut/Tawlaft n wass}}
 |acciones =
