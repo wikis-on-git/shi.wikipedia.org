@@ -19,6 +19,7 @@
 {{#if: {{Portada:Destacado|mostrar=extras}} |
 : ''Anteriores:'' {{Portada:Destacado|mostrar=extras}} }}
 |imagen principal = 1
+|Azday = Template:Amgrad n ɣassad
 }}
 
 {{Aggur:Tigzmi
