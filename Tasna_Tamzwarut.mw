@@ -1,9 +1,13 @@
 <templatestyles src="Plantilla:Portada/OOUI/styles.css" />
+
 {{Aggur:Azwl/OOUI}}
+
 {{Tazwart}}
 
 {{Askkil amaziɣ}}
+
 {{Nḍu|20px}}
+
 <div class="main-wrapper">
 <div class="main-wrapper-column">
 
@@ -12,8 +16,6 @@
 |Tazwlt = Amgrad n ɣassad
 |Azwl = [[Lḥaj Blɛid]]
 |Tumayt = {{Amgrad n ɣassad}}
-<!--|opciones =-->
-
 |imagen principal = 1
 |Azday = Template:Amgrad n ɣassad
 |Ɣr uggar = Lḥaj Blɛid
@@ -38,9 +40,11 @@
 |Ɣr uggar = Talɣa:Aggurn
 |Azday = Template:Amgrad n ɣassad
 }}
+
 </div>
 
 <div class="main-wrapper-column">
+
 {{Aggur:Tigzmi
 |id = cur
 |Tazwlt = <!-- Actualidad -->
@@ -73,8 +77,6 @@
 |id = wmfsp
 |Azwl =  S tmktayt
 |Tumayt ={{Tasna Tamzwarut/S tmktayt}}
-|Timgga =
-* {{Botón enlazable 2|Lislam|Ɣr uggar}}
 |Azday=Template:Tasna Tamzwarut/S tmktayt
 |Ɣr uggar = Tutlayt taclḥit
 |Azday = Template:Amgrad n ɣassad
@@ -93,4 +95,5 @@
 }}
 
 {{Tasna Tamzwarut/Isenfaren Aytmaten}}
+
 __NOTOC____NOEDITSECTION__
