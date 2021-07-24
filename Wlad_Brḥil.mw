@@ -1,0 +1,42 @@
+{{Databox}}
+'''Wlad Brḥil''' (s [[Tutlayt Taɛrabt|tɛrabt]]: اولاد برحيل s [[Tafransist|tfransist]]: -{Oulad Berhil}-) tga yat tmdint tamɣribit iḍfaṛn i tmnaḍt n [[Tamnaḍt n Tarudant|Tarudant]] ɣ tsga n [[Tasga n Sus-Massa|Sus-Massa]].
+
+== Asnmkta ==
+Ar ittini usiḍn lli ittyuskar ɣ usggʷas n 2014 mas<ref>[http://rgphentableaux.hcp.ma/ RGPH 2014 - Site HCP]</ref>:
+
+=== Aslmd ===
+
+* Tigmiḍi n taqubbanit (middn lli ur ssin ad aqran wala ad ttaran) : 29,4%
+* Tigmiḍi n imzdaɣ lli iɣran ar usinan n usmdi nɣd uggar : 11,1%
+
+=== Tadamsa ===
+
+* Tigmiḍi n imzdaɣ lli llan ɣ isggasn nnsn n twuri : 43,3%
+* Tigmiḍi n tarwuri (middn lli ur ṭṭafn tawuri) : 12,9%
+* Tigmiḍi n imzdaɣ lli swurin dar lmxzn (nɣ kantin swurin gis) : 10,6%
+* Tigmiḍi n imzdaɣ lli swurin ɣ uslig (nɣ kantin swurin gis) : 55,5%
+
+==Tadimugrafit==
+<timeline>
+ImageSize = width:220 height:220
+PlotArea = left:70 right:40 top:20 bottom:20
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:16905
+ScaleMajor = unit:year increment:2500 start:0 gridcolor:gray1
+PlotData =
+  bar:1994 color:gray1 width:1 
+   from:0 till:9211 width:15 text:9211 textcolor:red  fontsize:8px
+  bar:2004 color:gray1 width:1 
+   from:0 till:15369 width:15  text:15369 textcolor:red  fontsize:8px
+</timeline>
+
+==Iɣbula==
+<references />
+== Ɣayli sis izdin ==
+{{Tasga n Sus Massa}}{{Amud/Lmɣrib}}
+[[Taggayt:Sus]]
+[[Taggayt:Timdinin n Lmɣrib]]
