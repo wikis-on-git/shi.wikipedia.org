@@ -16,6 +16,24 @@ Ar ittini usiḍn lli ittyuskar ɣ usggʷas n 2014 mas<ref>[http://rgphentableau
 * Tigmiḍi n imzdaɣ lli swurin dar lmxzn (nɣ kantin swurin gis) : 41,5%
 * Tigmiḍi n imzdaɣ lli swurin ɣ uslig (nɣ kantin swurin gis) : 30,7%
 
+==Tadimugrafit==
+<timeline>
+ImageSize = width:220 height:220
+PlotArea = left:70 right:40 top:20 bottom:20
+TimeAxis = orientation:vertical
+AlignBars = justify
+Colors =
+  id:gray1 value:gray(0.9)
+DateFormat = yyyy
+Period = from:0 till:7812
+ScaleMajor = unit:year increment:1000 start:0 gridcolor:gray1
+PlotData =
+  bar:1994 color:gray1 width:1
+   from:0 till:6519 width:15 text:6519 textcolor:red  fontsize:8px
+  bar:2004 color:gray1 width:1
+   from:0 till:7102 width:15  text:7102 textcolor:red  fontsize:8px
+</timeline>
+
 == Iɣbula ==
 <references />
 
