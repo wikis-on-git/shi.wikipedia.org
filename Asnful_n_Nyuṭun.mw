@@ -1,8 +1,8 @@
-{{Amgrad icqqan}}[[Afaylu:Binomial expansion visualisation.svg|thumb|Tannayt f mamnk asa itgga usɣlu n kran usnful.]]
-Tga '''tanfalit n usnful n Nyuṭun''' yat tanfalit [[tusnakt]] iskr-tt umusnak imqqurn [[Isḥaqq Nyutun|Isḥaq Nyuṭun]]<ref>S ṣṣaḥt, tanfalit ad tettussan yad zɣ tasut tis-X, slawann akk dar id bu-tusnakt ihindiyn, iɛrabn d ifarisiyn (Al-Karaji) d ɣ tasut tis-XIII, amusnak acinwi Yang Hui imlatt. Ɣ 1665, Nyuṭun iskr as asmata nns s tuẓḍurin ur gin ummidn.</ref> fad ad yaf usbuɣlu n kraygat taẓḍurt n kran usnful. Teṭṭaf ismawn yaḍna zund '''tanfalit n usnful''' nɣ '''tanfalit n Nyuṭun'''.
+{{Amgrad icqqan}}[[Afaylu:Binomial expansion visualisation.svg|thumb|Tannayt f mamnk asa itgga usɣlu n kra n usnful.]]
+Tga '''tanfalit n usnful n Nyuṭun''' yat tanfalit [[tusnakt]] iskr-tt umusnak imqqurn [[Isḥaqq Nyutun|Isḥaq Nyuṭun]]<ref>S ṣṣaḥt, tanfalit ad tettussan yad zɣ tasut tis-X, slawann akk dar id bu-tusnakt ihindiyn, iɛrabn d ifarisiyn (Al-Karaji) d ɣ tasut tis-XIII, amusnak acinwi Yang Hui imlatt. Ɣ 1665, Nyuṭun iskr as asmata nns s tuẓḍurin ur gin ummidn.</ref> fad ad yaf usbuɣlu n kraygat taẓḍurt n kra n usnful. Teṭṭaf ismawn yaḍna zund '''tanfalit n usnful''' nɣ '''tanfalit n Nyuṭun'''.
 
 == Mad tettini ==
-Iɣ gan <math>x</math> d <math>y</math> sin ifrdisn n kran uzbg (s umdya sin imḍanen ilawn nɣ ismlaln, sin igtfuln, sin isiruwn imkkuẓn nna dar illa nafs tiddi, atg.) nna ɣ tlla tasunflt<ref>Tafada ad tga ḍaṛuṛiyya, d tga tagdazalt i tidt n tanfalit i ''n'' = 2.</ref> (ad t-igan mas-d <math>xy = yx</math> — s umdya i isiruwn : <math>y</math> iga-tt isiruw n tulut) s ɣikkad, i kraygat <math>n</math> amḍan ummid agaman, nṭṭaf : 
+Iɣ gan <math>x</math> d <math>y</math> sin ifrdisn n kra n uzbg (s umdya sin imḍanen ilawn nɣ ismlaln, sin igtfuln, sin isiruwn imkkuẓn nna dar illa nafs tiddi, atg.) nna ɣ tlla tasunflt<ref>Tafada ad tga ḍaṛuṛiyya, d tga tagdazalt i tidt n tanfalit i ''n'' = 2.</ref> (ad t-igan mas-d <math>xy = yx</math> — s umdya i isiruwn : <math>y</math> iga-tt isiruw n tulut) s ɣikkad, i kraygat <math>n</math> amḍan ummid agaman, nṭṭaf : 
 <center><math>(x+y)^n=\sum_{k=0}^n {n \choose k} x^{k} y^{n-k}=\sum_{k=0}^n {n \choose k} x^{n-k} y^k</math>,</center>
 Maɣ imḍanen
 
@@ -83,7 +83,7 @@ Ad nsrs <math>p = k+1</math>
 S tifadiwin lli nfka i <math>a</math> d <math>b</math>, tanfalit <math>(a+b)^n = \sum_{k=0}^{n} \textstyle {n \choose k} a^{k}b^{n-k}</math> tṣḥa i <math>\forall n \in \mathbb{N} </math> .
 
 == Asmata ==
-Nẓḍar ad nals i usbuɣlu s ullus fad ad nml [[tanfalit n Laybniz]] i tazllumt tis-<math>n</math> n kran ufaris.
+Nẓḍar ad nals i usbuɣlu s ullus fad ad nml [[tanfalit n Laybniz]] i tazllumt tis-<math>n</math> n kra n ufaris.
 
 Taɣarast tamsuddst n tawlawalt ad aɣ yujjan ad nskr asmata n tulut agtful
 
