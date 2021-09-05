@@ -1,16 +1,16 @@
 {{Amgrad icqqan}}[[Afaylu:Concave and convex functions.svg|thumb|Tasɣnt illan ɣ uẓlmaḍ tga tuɣnijt; ama talli illan ɣ ufasi tga taffnsut.]]
-Ɣ [[tusnakt]], ar nttini i kran '''tasɣnt''' nɣ tawuri <math>f</math> mas tga '''tuɣnijt''' iɣ tga tasɣnt tuzlt nns <math>-f</math> tga taffnsut. Tga tasɣnt tuɣnijt yat tasɣnt nna dar illa wafa ɣ uflla d tnnurẓm ɣ izddar nns. Ar as nttini s tɛrabt ''Dalla Muqaɛɛara.''
+Ɣ [[tusnakt]], ar nttini i kra n '''tasɣnt''' nɣ tawuri <math>f</math> mas tga '''tuɣnijt''' iɣ tga tasɣnt tuzlt nns <math>-f</math> tga taffnsut. Tga tasɣnt tuɣnijt yat tasɣnt nna dar illa wafa ɣ uflla d tnnurẓm ɣ izddar nns. Ar as nttini s tɛrabt ''Dalla Muqaɛɛara.''
 
 == Asnml ==
 <blockquote>'''Asnml amzwaru:'''
 
-Ar nttini i kran tasɣnt nɣ tawuri <math>f</math> mas tga tuɣnijt iɣ tga tasɣnt tuzlt nns <math>-f</math> tga taffnsut.</blockquote>
+Ar nttini i kra n tasɣnt nɣ tawuri <math>f</math> mas tga tuɣnijt iɣ tga tasɣnt tuzlt nns <math>-f</math> tga taffnsut.</blockquote>
 
 Asnml ad irwas nit ɣwad ddaw-as
 
 <blockquote>'''Asnml wis-sin:'''
 
-Ar nttini i kran tasɣnt nɣ tawuri <math>f</math> n yan uzilal <math>I</math> itddan s '''ℝ''' mas tga tuɣnijt iɣ, i kraygat <math>x_1</math> d <math>x_2</math> illan ɣ <math>I</math> d kraygat <math>t</math> illan ɣ <math>[0 ; 1]</math>, danrɣ:<math display="block">f(t\, x_1+(1-t)\, x_2) \geq t\, f(x_1)+(1-t)\, f(x_2).</math></blockquote>
+Ar nttini i kra n tasɣnt nɣ tawuri <math>f</math> n yan uzilal <math>I</math> itddan s '''ℝ''' mas tga tuɣnijt iɣ, i kraygat <math>x_1</math> d <math>x_2</math> illan ɣ <math>I</math> d kraygat <math>t</math> illan ɣ <math>[0 ; 1]</math>, danrɣ:<math display="block">f(t\, x_1+(1-t)\, x_2) \geq t\, f(x_1)+(1-t)\, f(x_2).</math></blockquote>
 
 == Amdya n tisɣunin ittwazlamn ==
 Nṭṭaf sin tisflas:
@@ -23,8 +23,8 @@ Nṭṭaf sin tisflas:
 
 Nẓḍar ad nsfɣ ɣilad tisflst tis-snat
 
-* masd kullu tisɣunin lli ganin tuɣnijinin d ttwazlamn (ɣ kran uzilal ilaw) hat gan n tasrkmt <math>C^1</math><ref>Ittuynna ɣ Jacques Douchet, , <abbr>vol.</abbr> 1, PPUR, 2010, <abbr>3e</abbr> <abbr>éd.</abbr> (<abbr>1re</abbr> <abbr>éd.</abbr> 2003) <small>([https://books.google.co.ma/books?id=4uQZ42UkXm8C&pg=PA77&redir_esc=y ɣr ɣ wantirnit] [http://archive.wikiwix.com/cache/index2.php?url=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D4uQZ42UkXm8C%26pg%3DPA77 <nowiki>[amzruy]</nowiki>])</small>, <abbr>p.</abbr> 77 (prop. 5.44) d ittuysmla ɣ [https://fr.wikiversity.org/wiki/Fonctions_d%27une_variable_r%C3%A9elle/Exercices/Convexit%C3%A9#Exercice_6 atmrin ilan taṣḥiḥ nns ɣ ddars] n tisɣunin nna dar tlla yat tavariablt tilawt ɣ Wikitasdawit. Iɣ a tllit f asmata i tisɣunin tuɣnijinin nna dar tlla yat tavariablt taviktorit, ẓr <abbr>(en)</abbr> Jean-Paul Penot, , <abbr>coll.</abbr> « GTM » (<abbr>no</abbr> 266), 2012 <small>([https://books.google.co.ma/books?id=ZbkQKsRh3HcC&pg=PA202&redir_esc=y#v=onepage&q&f=false ɣr ɣ wantirnit] [http://archive.wikiwix.com/cache/index2.php?url=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZbkQKsRh3HcC%26pg%3DPA202 <nowiki>[amzruy]</nowiki>])</small>, <abbr>p.</abbr> 202-203</ref> ;
-* alkam ad, ar t nsxddam bzzaf bac ad nslkn bla amalad tuɣnijt nɣ takunkavit n kran imdyatn bḍḍbt :
+* masd kullu tisɣunin lli ganin tuɣnijinin d ttwazlamn (ɣ kra n uzilal ilaw) hat gan n tasrkmt <math>C^1</math><ref>Ittuynna ɣ Jacques Douchet, , <abbr>vol.</abbr> 1, PPUR, 2010, <abbr>3e</abbr> <abbr>éd.</abbr> (<abbr>1re</abbr> <abbr>éd.</abbr> 2003) <small>([https://books.google.co.ma/books?id=4uQZ42UkXm8C&pg=PA77&redir_esc=y ɣr ɣ wantirnit] [http://archive.wikiwix.com/cache/index2.php?url=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D4uQZ42UkXm8C%26pg%3DPA77 <nowiki>[amzruy]</nowiki>])</small>, <abbr>p.</abbr> 77 (prop. 5.44) d ittuysmla ɣ [https://fr.wikiversity.org/wiki/Fonctions_d%27une_variable_r%C3%A9elle/Exercices/Convexit%C3%A9#Exercice_6 atmrin ilan taṣḥiḥ nns ɣ ddars] n tisɣunin nna dar tlla yat tavariablt tilawt ɣ Wikitasdawit. Iɣ a tllit f asmata i tisɣunin tuɣnijinin nna dar tlla yat tavariablt taviktorit, ẓr <abbr>(en)</abbr> Jean-Paul Penot, , <abbr>coll.</abbr> « GTM » (<abbr>no</abbr> 266), 2012 <small>([https://books.google.co.ma/books?id=ZbkQKsRh3HcC&pg=PA202&redir_esc=y#v=onepage&q&f=false ɣr ɣ wantirnit] [http://archive.wikiwix.com/cache/index2.php?url=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZbkQKsRh3HcC%26pg%3DPA202 <nowiki>[amzruy]</nowiki>])</small>, <abbr>p.</abbr> 202-203</ref> ;
+* alkam ad, ar t nsxddam bzzaf bac ad nslkn bla amalad tuɣnijt nɣ takunkavit n kra n imdyatn bḍḍbt :
 
 <blockquote>'''Alkam:''' Ad tg <math>f</math> yat tasɣnt ittwazlamn snat twal ɣ yan uzilal <math>I</math>. Tga <math>f</math> tuɣnijt iɣ d ɣar iɣ iga azllum nns wis-sin <math>f''</math> ila s watign uzdirn nɣ igadda d amya.</blockquote>
 
@@ -35,7 +35,7 @@ Zɣ tisɣunin tuɣnijinin irxan, nẓḍar ad nbdr s usml ugmiḍn n tisɣunin t
 * <math>x \mapsto -x^n</math> d <math>n</math> tga ummid ayugan ;
 * <math>x \mapsto exp(x)</math>.
 
-Ad nbdr ula kran tisɣunin timsuɣalin n tisɣunin taffnsunin, zund s umdya ɣ '''ℝ<sub>+</sub>*''':
+Ad nbdr ula kra n tisɣunin timsuɣalin n tisɣunin taffnsunin, zund s umdya ɣ '''ℝ<sub>+</sub>*''':
 
 * Tasɣnt n [[Alugaritm agaman|ulugaritm agaman]]
 * Tasɣnt taẓḍurt <math>x \mapsto x^a</math> iɣ <math> 0 \leq a \leq 1.</math>
