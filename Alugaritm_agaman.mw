@@ -9,24 +9,24 @@ Alugaritm ad dars yan yism yaḍni abla "agaman", iga-tt "anipiri". Ism ad yucka
 Tettyawskar tazmilt n ulugaritm nna f nsawal nkkni ɣila s ifassn n Grégoire de Saint-Vincent d Alphonse Antonio de Sarasa ɣ usggʷas n 1649
 
 == Isnmal ==
-Ad tg <math>a \in ]0 ; + \infty[ </math>, nzḍar ad nini mas-d asnml n tasɣnt talugaritm tga-tt unrar lli illan ɣ izddar n tasɣnt <math>x \mapsto 1/x
+Ad tg <math>a \in ]0 ; + \infty[ </math>, nẓḍar ad nini mas d asnml n tasɣnt talugaritm iga-tt unrar lli illan ɣ izddar n tasɣnt <math>x \mapsto 1/x
  </math> gr <math>a
- </math> d 1. Ɣikad ast nttara :
+ </math> d 1. Ɣikad as ar t nttara :
 [[Afaylu:Log-pole-x 1.svg|thumb|Tasɣnt talugaritm tga unrar lli illan ɣ izddar n tasɣnt <math>x \mapsto 1/x
  </math> gr <math>a
  </math> d 1.]]
 <math>\ln a = \int_1^a \frac{1}{x}\,dx.
  </math>
 
-Iɣ darnɣ <math>a<1 </math> rad nini mas-d unrar lli darnɣ illan iga uzdir.
+Iɣ darnɣ <math>a<1 </math> rad nini mas d anrar lli darnɣ illan iga uzdir.
 
-Ɣilad tasɣnt talugaritm dars akkʷ aydatn n [[Tasɣnt talugaritm|tisɣnin tilugaritm]].<ref>https://www.britannica.com/science/logarithm ''Encyclopedia Britannica''. Tettuyẓra ass n 2020-08-29.</ref>
+Ɣil ad tasɣnt talugaritmt dars akkʷ aydatn n [[Tasɣnt talugaritmt|tsɣnin tilugaritmin]].<ref>https://www.britannica.com/science/logarithm ''Encyclopedia Britannica''. Tettuyẓra ass n 2020-08-29.</ref>
 
 <math display="inline">\ln(ab) = \ln a + \ln b.
 
  </math>
 
-Nzḍar ad nml ɣayad s tibḍit n uɣrd lli f nsawl ɣ umzwaru s snat tifulin ɣ-akud-ann nɣrd s usnfl n umutti <math>x = ta</math> ɣ tafult tiss-snat, zund ɣikad:
+Nzḍar ad nml ɣayad s tibḍit n uɣrd lli f nsawl ɣ umzwaru s snat tfulin ɣ akud ann nɣrd s usnfl n umutti <math>x = ta</math> ɣ tafult tiss snat, zund ɣikad:
 
 <math>\begin{align}
 \ln(ab)= \int_1^{ab}\frac{1}{x} \, dx
