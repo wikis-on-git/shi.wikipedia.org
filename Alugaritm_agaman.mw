@@ -9,7 +9,7 @@ Alugaritm ad dars yan yism yaḍni abla "agaman", iga-tt "anipiri". Ism ad yucka
 Tettyawskar tazmilt n ulugaritm nna f nsawal nkkni ɣila s ifassn n Grégoire de Saint-Vincent d Alphonse Antonio de Sarasa ɣ usggʷas n 1649
 
 == Isnmal ==
-Ad tg <math>a \in ]0 ; + \infty[ </math>, nẓḍar ad nini mas d asnml n tasɣnt talugaritm iga-tt unrar lli illan ɣ izddar n tasɣnt <math>x \mapsto 1/x
+Ad tili <math>a \in ]0 ; + \infty[ </math>, nẓḍar ad nini mas d asnml n tasɣnt talugaritm iga-tt unrar lli illan ɣ izddar n tasɣnt <math>x \mapsto 1/x
  </math> gr <math>a
  </math> d 1. Ɣikad as ar t nttara :
 [[Afaylu:Log-pole-x 1.svg|thumb|Tasɣnt talugaritm tga unrar lli illan ɣ izddar n tasɣnt <math>x \mapsto 1/x
@@ -45,10 +45,10 @@ Zɣ ɣaylli izrin ar ntafa masd tasɣnt <math>x \mapsto ln(x) </math> tlla ɣar 
 
 <math>\forall x \in \R^*_+,\ \ln'(x) = \frac 1x </math>
 
-S ɣikad tga <math>ln </math> tasɣnt tamaɣlalt ɣ uzilal <math>]0 ; + \infty[  </math>, d acku tazllumt nns tga tumnigt rad nini masd <math>ln </math> tga tasɣnt igmmn ɣ ammas uzilal <math>]0 ; + \infty[  </math>
+S ɣikAd tilia <math>ln </math> tasɣnt tamaɣlalt ɣ uzilal <math>]0 ; + \infty[  </math>, d acku tazllumt nns tga tumnigt rad nini masd <math>ln </math> tga tasɣnt igmmn ɣ ammas uzilal <math>]0 ; + \infty[  </math>
 
 ==== Timhal f tasɣnt n ulugaritm agaman ====
-Ad tg <math>f </math> yat tasɣnt <math>\ f(x) = \ln(ax)</math> s <math>a </math> d <math>x </math> sin imḍanen umnign. Tazllumt nns tga nit tazllumt n ulugaritm agaman, hyya:
+Ad tili <math>f </math> yat tasɣnt <math>\ f(x) = \ln(ax)</math> s <math>a </math> d <math>x </math> sin imḍanen umnign. Tazllumt nns tga nit tazllumt n ulugaritm agaman, hyya:
 
 <math>\ f(x) = \ln(x)+k \ / \ k \in \ R</math>
 
