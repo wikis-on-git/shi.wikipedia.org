@@ -144,13 +144,13 @@ Tutlayt Taclḥit tṭṭaf kraḍ iɣritn imslicann, nna ɣ tiɣzi ur tgi aṣ�
 ! width="75" align="center" |[[:en:Back vowel|Adeffran]]
 |-
 ! align="center" |[[:en:High vowel|Urgil]]
-|align="center"|i
+|align="center"|-{i}-
 |
-|align="center"|u
+|align="center"|-{u}-
 |-
 ! align="center" |[[:en:Low vowel|Imldi]]
 |
-|align="center"|a
+|align="center"|-{a}-
 |
 |}
 
@@ -184,13 +184,13 @@ kra n imaratn yaḍnin dffir mayad zun d -{Aspinion}- (1953), sxddmn tamatart �
 ! [[:en:Labialization|attwancuc]]
 |-
 ! colspan="2" |[[:en:Nasal consonant|Anzran]]
-| {{IPAlink|m}}
-| {{IPAlink|n}}
+| -{ {{IPAlink|m}}
+| {{IPAlink|n}} }-
 |  || || ||  || || || || ||
 |-
 ! rowspan="2" |[[:en:Stop consonant|Aggaɣ]]
 !arimɣr
-|
+| -{
 | {{IPAlink|t}}
 | {{IPAlink|tˤ}} {{angbr|ṭ}}
 |
@@ -200,24 +200,24 @@ kra n imaratn yaḍnin dffir mayad zun d -{Aspinion}- (1953), sxddmn tamatart �
 | {{IPAlink|q}}
 | {{IPAlink|qʷ}}
 |
-|
+| }-
 |-
 ![[:en:Voice (phonetics)|<small>imɣr</small>]]
-| {{IPAlink|b}}
+| -{ {{IPAlink|b}}
 | {{IPAlink|d}}
 | {{IPAlink|dˤ}} {{angbr|ḍ}}
 |
 |
 | {{IPAlink|g}}
 | {{IPAlink|gʷ}}
-|
+| }-
 |
 |
 |
 |-
 ! rowspan="2" |[[:en:Fricative consonant|Ameryan]]
 !arimɣr
-| {{IPAlink|f}}
+| -{ {{IPAlink|f}}
 | {{IPAlink|s}}
 | {{IPAlink|sˤ}} {{angbr|ṣ}}
 | {{IPAlink|ʃ}} {{angbr|š}}
@@ -227,9 +227,9 @@ kra n imaratn yaḍnin dffir mayad zun d -{Aspinion}- (1953), sxddmn tamatart �
 | {{IPAlink|χ}} {{angbr|x}}
 | {{IPAlink|χʷ}} {{angbr|xʷ}}
 | {{IPAlink|ʜ}} {{angbr|ḥ}}
-|
+| }-
 |-
-![[:en:Voice (phonetics)|<small>imɣr</small>]]
+![[:en:Voice (phonetics)|<small>imɣr</small>]] -{
 |
 | {{IPAlink|z}}
 | {{IPAlink|zˤ}} {{angbr|ẓ}}
@@ -240,22 +240,22 @@ kra n imaratn yaḍnin dffir mayad zun d -{Aspinion}- (1953), sxddmn tamatart �
 | {{IPAlink|ʁ}} {{angbr|ɣ}}
 | {{IPAlink|ʁʷ}} {{angbr|ɣʷ}}
 | {{IPAlink|ʢ}} {{angbr|ɛ}}
-| {{IPAlink|ɦ}} {{angbr|h}}
+| {{IPAlink|ɦ}} {{angbr|h}} }-
 |-
-! colspan="2" |[[:en:Approximant consonant|Aznaɣri]]
+! colspan="2" |[[:en:Approximant consonant|Aznaɣri]] -{
 |
 | {{IPAlink|l}}
 | {{IPAlink|lˤ}} {{angbr|ḷ}}
 |
 | {{IPAlink|j}} {{angbr|y}}
 |
-| {{IPAlink|w}}
+| {{IPAlink|w}} }-
 |  ||  ||  ||
 |-
-! colspan="2" |[[:en:Trill consonant|Asmamay]]
+! colspan="2" |[[:en:Trill consonant|Asmamay]] -{
 |
 | {{IPAlink|r}}
-| {{IPAlink|rˤ}} {{angbr|ṛ}}
+| {{IPAlink|rˤ}} {{angbr|ṛ}} }-
 | || ||  ||  ||  ||  ||  ||
 |}
 
