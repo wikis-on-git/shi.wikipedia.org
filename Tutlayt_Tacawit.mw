@@ -7,21 +7,21 @@ Lwilayat nna ɣ tettyusawal tutlayt-ad gan-tnt: Tabatnt, Xnclt, Suq Ahras, Um Lb
 === Iɣritn ===
 {| class="wikitable" style=text-align:center
 !
-![[:en:Front vowel|Front]]
-![[:en:Central vowel|Central]]
-![[:en:Back vowel|Back]]
+![[:en:Front vowel|Adffiran]]
+![[:en:Central vowel|Anammas]]
+![[:en:Back vowel|Adeffran]]
 |-
-![[:en:High vowel|High]]
+![[:en:High vowel|Urgil]]
 |i
 |
 |u
 |-
-![[:en:Mid vowel|Mid]]
+![[:en:Mid vowel|Tuẓẓumt]]
 |
 |ə
 |
 |-
-![[:en:Low vowel|Low]]
+![[:en:Low vowel|Imldi]]
 |
 |a
 |
@@ -32,16 +32,16 @@ Lwilayat nna ɣ tettyusawal tutlayt-ad gan-tnt: Tabatnt, Xnclt, Suq Ahras, Um Lb
 === Tirgalin ===
 {| class="wikitable" style=text-align:center
 ! colspan="2" rowspan="2" |
-! rowspan="2" |[[:en:Bilabial consonant|Bilabial]]
-! rowspan="2" |[[:en:Labiodental consonant|Labio-<br>dental]]
-! colspan="2" |[[:en:Dental consonant|Dental]]
-! colspan="2" |[[:en:Alveolar consonant|Alveolar]]
-! rowspan="2" |[[:en:Palatal consonant|Palato-<br>alveolar]]
-! colspan="2" |[[:en:Palatal consonant|Palatal]]
-! colspan="2" |[[:en:Velar consonant|Velar]]
-! rowspan="2" |[[:en:Uvular consonant|Uvular]]
-! rowspan="2" |[[:en:Pharyngeal consonant|Pharyngeal]]
-! rowspan="2" |[[:en:Glottal consonant|Glottal]]
+! rowspan="2" |[[:en:Bilabial consonant|Asincucan]]
+! rowspan="2" |[[:en:Labiodental consonant|Ancuglan]]
+! colspan="2" |[[:en:Dental consonant|Uglan]]
+! colspan="2" |[[:en:Alveolar consonant|Adluglan]]
+! rowspan="2" |[[:en:Palatal consonant|Adlugɣan]]
+! colspan="2" |[[:en:Palatal consonant|Anɣan]]
+! colspan="2" |[[:en:Velar consonant|Ulwiɣan]]
+! rowspan="2" |[[:en:Uvular consonant|Ilḍṭan]]
+! rowspan="2" |[[:en:Pharyngeal consonant|Ankaran]]
+! rowspan="2" |[[:en:Glottal consonant|Agranzazan]]
 |-
 !<small>plain</small>
 !<small>phar.</small>
@@ -52,8 +52,8 @@ Lwilayat nna ɣ tettyusawal tutlayt-ad gan-tnt: Tabatnt, Xnclt, Suq Ahras, Um Lb
 !<small>plain</small>
 !<small>lab.</small>
 |-
-! rowspan="2" |[[:en:Stop consonant|Plosive]]
-!'''<small>voiceless</small>'''
+! rowspan="2" |[[:en:Stop consonant|Aggaɣ]]
+!arimɣr
 |
 |
 |(t̪)
@@ -69,7 +69,7 @@ Lwilayat nna ɣ tettyusawal tutlayt-ad gan-tnt: Tabatnt, Xnclt, Suq Ahras, Um Lb
 |
 |
 |-
-!'''<small>voiced</small>'''
+!imɣr
 |(b)
 |
 |(d̪)
@@ -85,8 +85,8 @@ Lwilayat nna ɣ tettyusawal tutlayt-ad gan-tnt: Tabatnt, Xnclt, Suq Ahras, Um Lb
 |
 |
 |-
-! rowspan="2" |[[:en:Fricative consonant|Fricative]]
-!<small>voiceless</small>
+! rowspan="2" |[[:en:Fricative consonant|Ameryan]]
+!arimɣr
 |
 |f
 |θ
@@ -102,7 +102,7 @@ Lwilayat nna ɣ tettyusawal tutlayt-ad gan-tnt: Tabatnt, Xnclt, Suq Ahras, Um Lb
 |ħ
 |h
 |-
-!<small>voiced</small>
+!imɣr
 |β
 |
 |ð
@@ -118,7 +118,7 @@ Lwilayat nna ɣ tettyusawal tutlayt-ad gan-tnt: Tabatnt, Xnclt, Suq Ahras, Um Lb
 |ʕ
 |
 |-
-! colspan="2" |[[:en:Nasal consonant|Nasal]]
+! colspan="2" |[[:en:Nasal consonant|Anzran]]
 |m
 |
 |
@@ -134,7 +134,7 @@ Lwilayat nna ɣ tettyusawal tutlayt-ad gan-tnt: Tabatnt, Xnclt, Suq Ahras, Um Lb
 |
 |
 |-
-! colspan="2" |[[:en:Approximant consonant|Lateral]]
+! colspan="2" |[[:en:Approximant consonant|Imidis]]
 |
 |
 |
@@ -150,7 +150,7 @@ Lwilayat nna ɣ tettyusawal tutlayt-ad gan-tnt: Tabatnt, Xnclt, Suq Ahras, Um Lb
 |
 |
 |-
-! colspan="2" |[[:en:Trill consonant|Trill]]
+! colspan="2" |[[:en:Trill consonant|Asmamay]]
 |
 |
 |
@@ -166,7 +166,7 @@ Lwilayat nna ɣ tettyusawal tutlayt-ad gan-tnt: Tabatnt, Xnclt, Suq Ahras, Um Lb
 |
 |
 |-
-! colspan="2" |[[:en:Approximant consonant|Approximant]]
+! colspan="2" |[[:en:Approximant consonant|Aznaɣri]]
 |
 |
 |
@@ -185,7 +185,7 @@ Lwilayat nna ɣ tettyusawal tutlayt-ad gan-tnt: Tabatnt, Xnclt, Suq Ahras, Um Lb
 
 * Inziɣn iɣmsann d incucann /β, θ, ð, θˤ, ðˤ, ç, ʝ/ ar as nttslla am inagaɣn [b, t̪, d̪, t̪ˤ, d̪ˁ, k, ɡ] ɣar ig llan ɣ tussda.
 * Ar nttslla i [nʲ, nʷ] ɣar ig tzwar /n/ iznaɣritn /j, w/.
-* Ar ntslla i /çᶣ, ʝᶣ, ɡʷ/ ɣar ɣ tussda.
+* Ar nttslla i /çᶣ, ʝᶣ, ɡʷ/ ɣar ɣ tussda.
 
 == Tinidlisn ==
 -{
