@@ -6,9 +6,7 @@
 {{Nḍu|10px}}
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-
-<div style="display: flex; flex-direction: column; flex: 1 2 25em;"><!-- PARTIE GAUCHE -------------------->
-
+<div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- PARTIE GAUCHE -------------------->
 {{Talɣa:Aggur:Tigzmi
 |Tazwlt = Amgrad n ɣassad
 |Azwl = [[Muḥammad Albnsir]]
@@ -16,7 +14,6 @@
 |Azday = Template:Amgrad n ɣassad 2
 |Ɣr uggar =  Muḥammad Albnsir
 }}
-
 {{Talɣa:Aggur:Tigzmi
 |Tazwlt = Amgrad ifulkin
 |Azwl = [[Asif n Wansifen|Asif n Wansifn]]
@@ -24,7 +21,6 @@
 |Ɣr uggar = Asif n Wansifen
 |Azday = Template:Tasna Tamzwarut/Amgrad ifulkin
 }}
-
 {{Talɣa:Aggur:Tigzmi
 |Tazwlt = 
 |Azwl = <h2>Iggura</h2>
@@ -33,10 +29,8 @@
 |Ɣr uggar = Talɣa:Aggurn
 |Azday = Template:Iggura
 }}
-
 </div> <!-- FIN DU CADRE GAUCHE -->
 <div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- DÉBUT DU CADRE DROITE --><!-- PARTIE  DROITE ------------------>
-
 {{Talɣa:Aggur:Tigzmi
 |Tazwlt = <!-- Actualidad -->
 |Azwl = Tazwart
@@ -44,7 +38,6 @@
 |Ɣr uggar =Amẓli:Statistiques
 |Azday = Template:Tasna Tamzwarut/Tazwurt
 }}
-
 {{Talɣa:Aggur:Tigzmi
 |Tazwlt = Tawlaft n ɣassad
 |Azwl = Ansmassu
@@ -52,14 +45,12 @@
 |Ɣr uggar =Ansmassu
 |Azday = Template:Tasna Tamzwarut/Tawlaft n wass
 }}
-
 {{Talɣa:Aggur:Tigzmi
 |Azwl =  Anɣmis g tutlayt
 |Tumayt ={{Tasna Tamzwarut/Anɣmis g tutlayt}}
 |Ɣr uggar = Talɣa:Tasna Tamzwarut/Anɣmis g tutlayt
 |Azday = Template:Tasna Tamzwarut/Anɣmis g tutlayt
 }}
-
 {{Talɣa:Aggur:Tigzmi
 |Tazwlt = Asgd
 |Azwl =  Lislam
@@ -68,7 +59,6 @@
 |Ɣr uggar = Lislam
 |Azday = Template:Tasna Tamzwarut/S tmktayt
 }}
-
 </div>
 </div><!-- BAS DE PAGE -------------------------------------------------->
 
