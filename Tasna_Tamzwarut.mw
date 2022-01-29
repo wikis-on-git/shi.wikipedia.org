@@ -6,6 +6,7 @@
 {{Nḍu|10px}}
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+
 <div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- PARTIE GAUCHE -------------------->
 
 {{Talɣa:Aggur:Tigzmi
@@ -34,7 +35,6 @@
 }}
 
 </div> <!-- FIN DU CADRE GAUCHE -->
-
 <div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- DÉBUT DU CADRE DROITE --><!-- PARTIE  DROITE ------------------>
 
 {{Talɣa:Aggur:Tigzmi
