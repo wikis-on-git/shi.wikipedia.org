@@ -9,6 +9,8 @@
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 <div style="display: flex; flex-direction: column; flex: 2 1 50em;"><!-- PARTIE GAUCHE -------------------->
 
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- PARTIE GAUCHE -------------------->
 {{Amnni
  | Azday = Template:Amgrad n ɣassad 2
  | Azwl = Amgrad n ɣassad
@@ -18,6 +20,19 @@
  | Tamamkt = flex: 1 1 auto;
  | Tumayt = {{Template:Amgrad n ɣassad 2}}
 }}
+</div> <!-- FIN DU CADRE GAUCHE -->
+<div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- PARTIE  DROITE ------------------>
+{{Amnni
+ | Azday = Template:Amgrad n ɣassad 2
+ | Azwl = Amgrad n ɣassad
+ | Azwl-aklu-abuḍ = #335EFF
+ | Abadu-aklu = #335EFF
+ | Tawlaft = 2017-fr.wp-orange-source.svg
+ | Tamamkt = flex: 1 1 auto;
+ | Tumayt = {{Template:Amgrad n ɣassad 2}}
+}}
+</div>
+</div><!-- BAS DE PAGE -------------------------------------------------->
 
 {{Amnni
  | Azday = Template:Tasna Tamzwarut/Amgrad ifulkin
