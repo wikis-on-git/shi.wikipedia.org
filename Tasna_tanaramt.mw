@@ -85,9 +85,14 @@
 </div>
 </div><!-- BAS DE PAGE -------------------------------------------------->
 
-{{Talɣa:Aggur:Tigzmi
-|Azwl =  Awsat ɣ Wikipidya
-|Tumayt ={{Tasna Tamzwarut/Amgrad Amaynu}}
+{{Amnni
+ | Azday = Tasna Tamzwarut/Amgrad Amaynu
+ | Azwl = Tiwisi ɣ Wikipidya
+ | Azwl-aklu-abuḍ = #335EFF
+ | Abadu-aklu = #335EFF
+ | Tawlaft = 2017-fr.wp-orange-source.svg
+ | Tamamkt = flex: 1 1 auto;
+ | Tumayt = {{Tasna Tamzwarut/Amgrad Amaynu}}
 }}
 
 {{Tasna Tamzwarut/Isenfaren Aytmaten}}
