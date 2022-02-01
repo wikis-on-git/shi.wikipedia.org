@@ -8,13 +8,16 @@
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 <div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- PARTIE GAUCHE -------------------->
-{{Talɣa:Aggur:Tigzmi
-|Tazwlt = Amgrad n ɣassad
-|Azwl = [[Muḥammad Albnsir]]
-|Tumayt = {{Amgrad n ɣassad 2}}
-|Azday = Template:Amgrad n ɣassad 2
-|Ɣr uggar =  Muḥammad Albnsir
+
+{{Amnni
+ | Azday = Template:Amgrad n ɣassad 2
+ | Azwl = Amgrad n ɣassad
+ | Azwl-aklu-abuḍ = #FFDD91
+ | Tawlaft = 2017-fr.wp-orange-source.svg
+ | Tamamkt = flex: 1 1 auto;
+ | Tumayt = {{Template:Amgrad n ɣassad 2}}
 }}
+
 {{Talɣa:Aggur:Tigzmi
 |Tazwlt = Amgrad ifulkin
 |Azwl = [[Asif n Wansifen|Asif n Wansifn]]
