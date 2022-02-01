@@ -20,6 +20,15 @@
  | Tamamkt = flex: 1 1 auto;
  | Tumayt = {{Template:Amgrad n ɣassad 2}}
 }}
+{{Amnni
+ | Azday = Template:Amgrad n ɣassad 2
+ | Azwl = Amgrad n ɣassad
+ | Azwl-aklu-abuḍ = #335EFF
+ | Abadu-aklu = #335EFF
+ | Tawlaft = 2017-fr.wp-orange-source.svg
+ | Tamamkt = flex: 1 1 auto;
+ | Tumayt = {{Template:Amgrad n ɣassad 2}}
+}}
 </div> <!-- FIN DU CADRE GAUCHE -->
 <div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- PARTIE  DROITE ------------------>
 {{Amnni
