@@ -6,6 +6,16 @@
 {{Askkil amaziɣ}}
 {{Nḍu|10px}}
 
+{{Amnni
+ | Azday = Template:Tasna Tamzwarut/Tazwurt
+ | Azwl = Tazwart
+ | Azwl-aklu-abuḍ = #BFBE98
+ | Abadu-aklu = #BFBE98
+ | Tawlaft = OOjs UI icon logo-wikipedia.svg
+ | Tamamkt = flex: 1 1 auto;
+ | Tumayt = {{Tasna Tamzwarut/Tazwurt}}
+}}
+
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 <div style="display: flex; flex-direction: column; flex: 2 1 50em;"><!-- PARTIE GAUCHE -------------------->
 
@@ -90,16 +100,6 @@
  | Tawlaft = OOjs UI icon graph.svg
  | Tamamkt = flex: 1 1 auto;
  | Tumayt = {{Talɣa:Tasna tamzwarut/Tazwurt mẓẓin}}
-}}
-
-{{Amnni
- | Azday = Template:Tasna Tamzwarut/Tazwurt
- | Azwl = Tazwart
- | Azwl-aklu-abuḍ = #BFBE98
- | Abadu-aklu = #BFBE98
- | Tawlaft = 2017-fr.wp-orange-source.svg
- | Tamamkt = flex: 1 1 auto;
- | Tumayt = {{Tasna Tamzwarut/Tazwurt}}
 }}
 
 {{Amnni
