@@ -1,147 +1,71 @@
 {{Talɣa:Aggur:Azwl/OOUI}}
 
-{{Askkil amaziɣ}}
 {{Tazwart}}
 
+{{Askkil amaziɣ}}
 {{Nḍu|10px}}
 
-{{Amnni
- | Azday = Template:Tasna Tamzwarut/Tazwurt
- | Azwl = Tazwart
- | Azwl-aklu-abuḍ = #BFBE98
- | Abadu-aklu = #BFBE98
- | Tawlaft = OOjs UI icon logo-wikipedia.svg
- | Tamamkt = flex: 1 1 auto;
- | Tumayt = {{Tasna Tamzwarut/Tazwurt}}
-}}
-
-<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-<div style="display: flex; flex-direction: column; flex: 2 1 50em;"><!-- PARTIE GAUCHE -------------------->
-
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 <div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- PARTIE GAUCHE -------------------->
-{{Amnni
- | Azday = Template:Amgrad n ɣassad 2
- | Azwl = Amgrad n ɣassad
- | Azwl-aklu-abuḍ = #BFBE98
- | Abadu-aklu = #BFBE98
- | Tawlaft = OOjs_UI_icon_viewDetails-ltr.svg
- | Tamamkt = flex: 1 1 auto;
- | Tumayt = {{Template:Amgrad n ɣassad 2}}
+{{Talɣa:Aggur:Tigzmi
+|Tazwlt = Amgrad n ɣassad
+|Azwl = [[Muḥammad Albnsir]]
+|Tumayt = {{Amgrad n ɣassad 2}}
+|Azday = Template:Amgrad n ɣassad 2
+|Ɣr uggar =  Muḥammad Albnsir
+}}
+{{Talɣa:Aggur:Tigzmi
+|Tazwlt = Amgrad ifulkin
+|Azwl = [[Asif n Wansifen|Asif n Wansifn]]
+|Tumayt = {{Tasna Tamzwarut/Amgrad ifulkin}}
+|Ɣr uggar = Asif n Wansifen
+|Azday = Template:Tasna Tamzwarut/Amgrad ifulkin
+}}
+{{Talɣa:Aggur:Tigzmi
+|Tazwlt = 
+|Azwl = <h2>Iggura</h2>
+|Tumayt = {{Iggura}}
+|Azday = Talɣa:Iggura
+|Ɣr uggar = Talɣa:Aggurn
+|Azday = Template:Iggura
 }}
 </div> <!-- FIN DU CADRE GAUCHE -->
+
 <div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- PARTIE  DROITE ------------------>
-{{Amnni
- | Azday = Talɣa:Tasna tamzwarut/Timassanin
- | Azwl = Timassanin
- | Azwl-aklu-abuḍ = #BFBE98
- | Abadu-aklu = #BFBE98
- | Tawlaft = OOjs UI icon newspaper-ltr.svg
- | Tamamkt = flex: 1 1 auto;
- | Tumayt = {{Talɣa:Tasna tamzwarut/Timassanin}}
+{{Talɣa:Aggur:Tigzmi
+|Tazwlt = <!-- Actualidad -->
+|Azwl = Tazwart
+|Tumayt = {{Tasna Tamzwarut/Tazwurt}}
+|Ɣr uggar =Amẓli:Statistiques
+|Azday = Template:Tasna Tamzwarut/Tazwurt
+}}
+{{Talɣa:Aggur:Tigzmi
+|Tazwlt = Tawlaft n ɣassad
+|Azwl = Ansmassu
+|Tumayt = {{Tasna Tamzwarut/Tawlaft n wass}}
+|Ɣr uggar =Ansmassu
+|Azday = Template:Tasna Tamzwarut/Tawlaft n wass
+}}
+{{Talɣa:Aggur:Tigzmi
+|Azwl =  Anɣmis g tutlayt
+|Tumayt ={{Tasna Tamzwarut/Anɣmis g tutlayt}}
+|Ɣr uggar = Talɣa:Tasna Tamzwarut/Anɣmis g tutlayt
+|Azday = Template:Tasna Tamzwarut/Anɣmis g tutlayt
+}}
+{{Talɣa:Aggur:Tigzmi
+|Tazwlt = Asgd
+|Azwl =  Lislam
+|Tumayt ={{Tasna Tamzwarut/S tmktayt}}
+|Azday=Template:Tasna Tamzwarut/S tmktayt
+|Ɣr uggar = Lislam
+|Azday = Template:Tasna Tamzwarut/S tmktayt
 }}
 </div>
 </div><!-- BAS DE PAGE -------------------------------------------------->
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-<div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- PARTIE GAUCHE -------------------->
-{{Amnni
- | Azday = Template:Amgrad n ɣassad 2
- | Azwl = Amgrad n ɣassad
- | Azwl-aklu-abuḍ = #BFBE98
- | Abadu-aklu = #BFBE98
- | Tawlaft = OOjs UI icon quotes-ltr.svg
- | Tamamkt = flex: 1 1 auto;
- | Tumayt = {{Template:Amgrad n ɣassad 2}}
-}}
-</div> <!-- FIN DU CADRE GAUCHE -->
-<div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- PARTIE  DROITE ------------------>
-{{Amnni
- | Azday = Talɣa:Aggur n timassanin/Tafukt
- | Azwl = Timassanin
- | Azwl-aklu-abuḍ = #BFBE98
- | Abadu-aklu = #BFBE98
- | Tawlaft = OOjs UI icon chem.svg
- | Tamamkt = flex: 1 1 auto;
- | Tumayt = {{Talɣa:Aggur n timassanin/Tafukt}}
-}}
-</div>
-</div><!-- BAS DE PAGE -------------------------------------------------->
-
-{{Amnni
- | Azday = Template:Tasna Tamzwarut/Amgrad ifulkin
- | Azwl = Asif n Wansifn
- | Azwl-aklu-abuḍ = #BFBE98
- | Abadu-aklu = #BFBE98
- | Tawlaft = OOjs UI icon bulb.svg
- | Tamamkt = flex: 1 1 auto;
- | Tumayt = {{Tasna Tamzwarut/Amgrad ifulkin}}
-}}
-
-{{Amnni
- | Azday = Template:Iggura
- | Azwl = Iggura
- | Azwl-aklu-abuḍ = #BFBE98
- | Abadu-aklu = #BFBE98
- | Tawlaft = OOjs UI icon university.svg
- | Tamamkt = flex: 1 1 auto;
- | Tumayt = {{Iggura}}
-}}
-
-</div> <!-- FIN DU CADRE GAUCHE -->
-<div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- PARTIE  DROITE ------------------>
-
-{{Amnni
- | Azday = Talɣa:Tasna tamzwarut/Tazwurt mẓẓin
- | Azwl = Tannayt f isnfarn n Wikipidya
- | Azwl-aklu-abuḍ = linear-gradient(to right,#FFFF00,#00FF00,#0000FF)
- | Abadu-aklu = #BFBE98
- | Tawlaft = OOjs UI icon graph.svg
- | Tamamkt = flex: 1 1 auto;
- | Tumayt = {{Talɣa:Tasna tamzwarut/Tazwurt mẓẓin}}
-}}
-
-{{Amnni
- | Azday = Template:Tasna Tamzwarut/Tawlaft n wass
- | Azwl = Ansmassu
- | Azwl-aklu-abuḍ = #BFBE98
- | Abadu-aklu = #BFBE98
- | Tawlaft = WikiJournal of Science logo (flat black).svg
- | Tamamkt = flex: 1 1 auto;
- | Tumayt = {{Tasna Tamzwarut/Tawlaft n wass}}
-}}
-
-{{Amnni
- | Azday = Template:Tasna Tamzwarut/Anɣmis g tutlayt
- | Azwl = Anɣmis g tutlayt
- | Azwl-aklu-abuḍ = #BFBE98
- | Abadu-aklu = #BFBE98
- | Tawlaft = OOjs UI icon sun-ltr.svg
- | Tamamkt = flex: 1 1 auto;
- | Tumayt = {{Tasna Tamzwarut/Anɣmis g tutlayt}}
-}}
-
-{{Amnni
- | Azday = Template:Tasna Tamzwarut/S tmktayt
- | Azwl = Lislam
- | Azwl-aklu-abuḍ = #BFBE98
- | Abadu-aklu = #BFBE98
- | Tawlaft = OOjs UI icon moon.svg
- | Tamamkt = flex: 1 1 auto;
- | Tumayt = {{Tasna Tamzwarut/S tmktayt}}
-}}
-
-</div>
-</div><!-- BAS DE PAGE -------------------------------------------------->
-
-{{Amnni
- | Azday = Tasna Tamzwarut/Amgrad Amaynu
- | Azwl = Tiwisi ɣ Wikipidya
- | Azwl-aklu-abuḍ = #BFBE98
- | Abadu-aklu = #BFBE98
- | Tawlaft = OOjs UI icon puzzle-ltr.svg
- | Tamamkt = flex: 1 1 auto;
- | Tumayt = {{Tasna Tamzwarut/Amgrad Amaynu}}
+{{Talɣa:Aggur:Tigzmi
+|Azwl =  Awsat ɣ Wikipidya
+|Tumayt ={{Tasna Tamzwarut/Amgrad Amaynu}}
 }}
 
 {{Tasna Tamzwarut/Isenfaren Aytmaten}}
