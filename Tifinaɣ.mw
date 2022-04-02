@@ -130,6 +130,7 @@ Ar tmmal twlaft ɣ uzlmaḍ mmnawt talɣiwin n iskkiln. Mqqar tga tussda timelic
 
 == Iskkiln ==
 Wid ad igan iskkiln n tfinaɣ abldi d tfinaɣ atrar:
+-{
 {| class="wikitable"
 |+
 |-
@@ -295,15 +296,16 @@ Wid ad igan iskkiln n tfinaɣ abldi d tfinaɣ atrar:
 |+ '''Color Key'''
 |-
 | style="background:silver; padding:0 1em;" |Tifinaɣ Tasilant ([[Royal institute of the Amazigh culture|IRCAM]])<ref>{{cite web |url= http://www.ircam.ma/fr/index.php?soc=telec&rd=3 |title= Polices et Claviers Unicode |publisher= [[Royal institute of the Amazigh culture|IRCAM]] |access-date= 2012-08-20 |language= fr |archive-url= https://web.archive.org/web/20120310055912/http://www.ircam.ma/fr/index.php?soc=telec&rd=3 |archive-date= 2012-03-10 |url-status=dead }}</ref>
-| style="background:#ffff80; padding:0 1em;" |Tifinaɣ Tamiriwt (IRCAM)<ref name=":0" />
+| style="background:#ffff80; padding:0 1em;" |Tifinaɣ Tamiriwt (IRCAM)<ref>P. Andries, [http://std.dkuug.dk/jtc1/sc2/wg2/docs/n2739.pdf Proposition d'ajout de l'écriture tifinaghe. Organisation internationale de normalisation], Jeu universel des caractères codés sur octets (JUC). ISO/IEC JTC 1/SC 2 WG, vol.2, p.2739R, 2004.</ref>
 | style="background:#ffc080; padding:0 1em;" |Iskkiln n tfinaɣ yaḍnin
 | style="background:#fff; padding:0 1em;" |Iskkilen itrarn n imuzaɣ
 |}
-
+}-
 === unikud ===
 Tetturna tfinaɣ g yunikud g Mars 2005, d wufuɣ n wis 4.1. 
 
 Afarra (bloc) n Tfinaɣ g yunikud iga t: U+2D30–U+2D7F.
+-{
 {| class="wikitable" align="center" border="1" cellspacing="0" cellpadding="1" style="border:1px solid black;border-collapse:collapse;margin-bottom:1em"
 |+'''Tifinaɣ'''[https://www.unicode.org/charts/PDF/U2D30.pdf Official Unicode Consortium code chart] (PDF)
 !
@@ -414,7 +416,7 @@ Afarra (bloc) n Tfinaɣ g yunikud iga t: U+2D30–U+2D7F.
 | bgcolor="#EEEEEE" |&nbsp;
 | bgcolor="#EEEEEE" |&nbsp;&nbsp;&#x2D7F;&nbsp;&nbsp;
 |}
-
+}-
 == Ẓr ula ==
 
 * [http://www.clio.fr/BIBLIOTHEQUE/langue_et_litterature_berberes.asp Langue et littérature berbères] par Salem Chaker, directeur du Centre de recherche berbère à l'[[:kab:INALCO|INALCO]].
