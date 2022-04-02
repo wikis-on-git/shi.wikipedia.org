@@ -22,7 +22,7 @@ Kra n tikkal, ittusmras ugʷmmay ɣ tirra n kra n tutlayin taddjaṛin zun d [[T
 
 == Asnmarra ==
 [[Afaylu:Tinifagh intedeni.jpg|thumb|tirra n tfinaɣ qdmnin ɣ usit n inɣutn n iẓran n intdnni nna iqrrbn i tmdint n ssuq ɣ mali]]
-Ar tmmal twlaft ɣ uzlmaḍ mmnawt talɣiwin n iskkiln. Mqqar tga tussda timelicant ur ar tettuzmmam ɣ Tfinaɣ. Iggu ma ɣ ar ittmun uskkil t, +, d uskkil nna t iḍfrn ifk anɣ asmsl ([[:en:Ligature (writing)|ligature]]).
+Ar tmmal twlaft ɣ uzlmaḍ mmnawt tlɣiwin n iskkiln. Mqqar tga tussda timlicant ur ar tettuzmmam ɣ Tfinaɣ. Iggut ma ɣ ar ittmun uskkil t, +, d uskkil nna t iḍfrn ifk anɣ asmsl ([[:en:Ligature (writing)|ligature]]).
 
 == Azmz azayku ==
 {| border="1" cellpadding="2" cellspacing="0" style="margin:0.7em 0.7em 0.7em 0.7em;border:1px solid #AAAAAA;background:white;border-collapse:collapse;font-size:95%;text-align:center;"
@@ -139,7 +139,7 @@ Wid ad igan iskkiln n tfinaɣ abldi d tfinaɣ atrar:
 |- style="background:#ccf;"
 ! rowspan="2" |[[:en:unicode|Yunikud]]|| rowspan="2" |Tuniɣt|| rowspan="2" |Tasisklt|| colspan="2" |Talsarit|| rowspan="2" |Ism
 |- style="background:#ccf;"
-![[:en:Latin alphabet|Alatin]]||[[International Phonetic Alphabet|GMG]](IPA)
+![[:en:Latin alphabet|Alatin]]||[[:en:International Phonetic Alphabet|GMG]] (IPA)
 |-
 | style="background:silver;" |U+2D30||[[File:2D30.png|20px]]||ⴰ|| style="text-align:center;" |a|| style="text-align:center;" |{{IPA|æ}}||ya
 |-
@@ -206,7 +206,7 @@ Wid ad igan iskkiln n tfinaɣ abldi d tfinaɣ atrar:
 |- style="background:#ccf;"
 ! rowspan="2" |[[:en:unicode|Yunikud]]|| rowspan="2" |Tuniɣt|| rowspan="2" |Tasisklt|| colspan="2" |Talsarit|| rowspan="2" |Ism
 |- style="background:#ccf;"
-![[:en:Latin alphabet|Alatin]]||[[International Phonetic Alphabet|GMG]](IPA)
+![[:en:Latin alphabet|Alatin]]||[[:en:International Phonetic Alphabet|GMG]] (IPA)
 |-
 | style="background:silver;" |U+2D4E||[[File:2D4E.png|20px]]||ⵎ|| style="text-align:center;" |m|| style="text-align:center;" |{{IPA|m}}||yam
 |-
@@ -265,7 +265,7 @@ Wid ad igan iskkiln n tfinaɣ abldi d tfinaɣ atrar:
 |}
 
 {| class="wikitable" style="border:1px solid #ccc;"
-|+'''[[Digraph (orthography)|Digraphs]] (for which [[Typographic ligature|ligatures]] are possible)'''
+|+'''[[:en:Digraph (orthography)|Isinskiuln]]'''
 |-
 | valign="top" |
 {| border="1" cellspacing="0" cellpadding="1" style="border:1px solid #ccc; border-collapse:collapse;"
@@ -293,7 +293,7 @@ Wid ad igan iskkiln n tfinaɣ abldi d tfinaɣ atrar:
 |}
 
 {| border="1" cellspacing="0" cellpadding="1" style="border:1px solid #ccc; border-collapse:collapse;"
-|+ '''Color Key'''
+|+ '''Tasaurt n ikʷlan'''
 |-
 | style="background:silver; padding:0 1em;" |Tifinaɣ Tasilant ([[Royal institute of the Amazigh culture|IRCAM]])<ref>{{cite web |url= http://www.ircam.ma/fr/index.php?soc=telec&rd=3 |title= Polices et Claviers Unicode |publisher= [[Royal institute of the Amazigh culture|IRCAM]] |access-date= 2012-08-20 |language= fr |archive-url= https://web.archive.org/web/20120310055912/http://www.ircam.ma/fr/index.php?soc=telec&rd=3 |archive-date= 2012-03-10 |url-status=dead }}</ref>
 | style="background:#ffff80; padding:0 1em;" |Tifinaɣ Tamiriwt (IRCAM)<ref>P. Andries, [http://std.dkuug.dk/jtc1/sc2/wg2/docs/n2739.pdf Proposition d'ajout de l'écriture tifinaghe. Organisation internationale de normalisation], Jeu universel des caractères codés sur octets (JUC). ISO/IEC JTC 1/SC 2 WG, vol.2, p.2739R, 2004.</ref>
@@ -418,7 +418,7 @@ Afarra (bloc) n Tfinaɣ g yunikud iga t: U+2D30–U+2D7F.
 |}
 }-
 == Ẓr ula ==
-
+-{
 * [http://www.clio.fr/BIBLIOTHEQUE/langue_et_litterature_berberes.asp Langue et littérature berbères] par Salem Chaker, directeur du Centre de recherche berbère à l'[[:kab:INALCO|INALCO]].
 * [https://web.archive.org/web/20070929092744/http://www.ircam.ma/centres/ceisic/FichierPDF/Zenkouar4_EDB_22_1_.pdf L'Ecriture amazighe Tifinaghe et Unicode, article paru dans la revue internationale "Etudes et Documents Berbères" vol. 22, 2004 : pp. 175-173], par Lahbib Zenkouar,
 * [https://web.archive.org/web/20080313141624/http://www.ircam.ma/centres/ceisic/rapports2005.htm Rapport d'activités du CEISIC (année 2005)] par Lahbib Zenkouar, Professeur à l'Ecole Mohammadia d'Ingénieurs (EMI), Rabat (Maroc), Directeur du Centre des Etudes Informatiques, des Systèmes d'Information et de Communication (CEISIC) de l'Institut Royal de la Culture Amazighe (IRCAM)(2002/2006).
@@ -428,7 +428,7 @@ Afarra (bloc) n Tfinaɣ g yunikud iga t: U+2D30–U+2D7F.
 * [http://kabyle.com/?article9193 Kabyle.com] - Entrevue avec Patrick Andries, expert Unicode, au sujet de l'« entrée du tifinagh dans la norme ISO »
 * [https://web.archive.org/web/20190804010013/http://musikamazigh.com/ Site sur la culture amazigh, particulièrement la musique amazigh.]
 * [https://web.archive.org/web/20100209071942/http://www.ircam.ma/ecoleamazighe/index.html ircam.ma - école amazighe]- Site web éducatif, apprendre tifinagh.
-
+}-
 == Isaɣuln ==
 -{
 <references />
