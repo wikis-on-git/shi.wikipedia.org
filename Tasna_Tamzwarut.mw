@@ -22,13 +22,13 @@
 <div style="display: flex; flex-direction: row; flex-wrap: wrap;">
 <div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- PARTIE GAUCHE -------------------->
 {{Amnni
- | Azday = Template:Amgrad n ɣassad 2
- | Azwl = Amgrad n ɣassad
+ | Azday = Template:Amgrad ifulkin
+ | Azwl = Amgrad ifulkin
  | Azwl-aklu-abuḍ = #BFBE98
  | Abadu-aklu = #BFBE98
  | Tawlaft = OOjs_UI_icon_viewDetails-ltr.svg
  | Tamamkt = flex: 1 1 auto;
- | Tumayt = {{Template:Amgrad n ɣassad 2}}
+ | Tumayt = {{Template:Amgrad ifulkin}}
 }}
 </div> <!-- FIN DU CADRE GAUCHE -->
 <div style="display: flex; flex-direction: column; flex: 1 1 25em;"><!-- PARTIE  DROITE ------------------>
