@@ -12,26 +12,26 @@ Tṭṭaf tmaziɣt tnawayt 27 n trgalin (zgisnt 2 tzgnrgalin).
 -{
 {| class="wikitable" style="text-align: center;"
 ! colspan="2" rowspan="2" |
-! rowspan="2" | [[:en:Labial consonant|Labial]]
-! colspan="2" | [[:en:Dental consonant|Dental]]
-! rowspan="2" | [[:en:Postalveolar consonant|Post-alveolar]]
-! rowspan="2" | [[:en:Palatal consonant|Palatal]]
-! colspan="2" | [[:en:Velar consonant|Velar]]
-! colspan="2" | [[:en:Uvular consonant|Uvular]]
-! rowspan="2" | [[:en:Pharyngeal consonant|Pharyngeal]]/<br>[[:en:Epiglottal consonant|Epiglottal]]
-! rowspan="2" | [[:en:Glottal consonant|Glottal]]
+! rowspan="2" | [[:en:Labial consonant|Ancucan]]
+! colspan="2" | [[:en:Dental consonant|Uglan]]
+! rowspan="2" | [[:en:Postalveolar consonant|Imḍfṛ-udlugl]]
+! rowspan="2" | [[:en:Palatal consonant|Unɣan]]
+! colspan="2" | [[:en:Velar consonant|Ulɣiwan]]
+! colspan="2" | [[:en:Uvular consonant|Ilḍṭan]]
+! rowspan="2" | [[:en:Pharyngeal consonant|Ankaran]]
+! rowspan="2" | [[:en:Glottal consonant|Agranzazan]]
 |- style="font-size:85%"
-! plain || [[:en:Pharyngealization|pharyngeal]]
-! plain || [[:en:Labialization|labialized]]
-! plain || [[:en:Labialization|labialized]]
+! arsitan || [[:en:Pharyngealization|ankaran]]
+! arsitan || [[:en:Labialization|attwancuc]]
+! arsitan || [[:en:Labialization|attwancuc]]
 |-
-! colspan="2" |[[:en:Nasal consonant|Nasal]]
+! colspan="2" |[[:en:Nasal consonant|Anzran]]
 | m
 | n
 | || || || || || || || ||
 |-
-! rowspan="2" |[[:en:Stop consonant|Stop]]
-!<small>voiceless</small>
+! rowspan="2" |[[:en:Stop consonant|Aggaɣ]]
+!arimɣr
 |
 | t
 | tˤ ⟨ṭ⟩
@@ -44,7 +44,7 @@ Tṭṭaf tmaziɣt tnawayt 27 n trgalin (zgisnt 2 tzgnrgalin).
 |
 |
 |-
-![[:en:Voice (phonetics)|<small>voiced</small>]]
+![[:en:Voice (phonetics)|<small>imɣr</small>]]
 | b
 | d
 |dˤ ⟨ḍ⟩
@@ -57,8 +57,8 @@ Tṭṭaf tmaziɣt tnawayt 27 n trgalin (zgisnt 2 tzgnrgalin).
 |
 |
 |-
-! rowspan="2" |[[:en:Fricative consonant|Fricative]]
-!<small>voiceless</small>
+! rowspan="2" |[[:en:Fricative consonant|Ameryan]]
+!arimɣr
 | f
 | s
 |sˤ ⟨ṣ⟩
@@ -71,7 +71,7 @@ Tṭṭaf tmaziɣt tnawayt 27 n trgalin (zgisnt 2 tzgnrgalin).
 |ʜ ⟨ḥ⟩
 |
 |-
-![[:en:Voice (phonetics)|<small>voiced</small>]]
+![[:en:Voice (phonetics)|<small>imɣr</small>]]
 |
 | z
 | zˤ ⟨ẓ⟩
@@ -84,7 +84,7 @@ Tṭṭaf tmaziɣt tnawayt 27 n trgalin (zgisnt 2 tzgnrgalin).
 |ʢ ⟨ɛ⟩
 |ɦ ⟨h⟩
 |-
-! colspan="2" |[[:en:Approximant consonant|Approximant]]
+! colspan="2" |[[:en:Approximant consonant|Aznaɣri]]
 |
 | l
 |
@@ -94,7 +94,7 @@ Tṭṭaf tmaziɣt tnawayt 27 n trgalin (zgisnt 2 tzgnrgalin).
 | w
 | || || ||
 |-
-! colspan="2" |[[:en:Trill consonant|Trill]]
+! colspan="2" |[[:en:Trill consonant|Asmamay]]
 |
 | r
 |rˤ ⟨ṛ⟩
@@ -107,16 +107,16 @@ Tṭṭaf tmaziɣt tanwayt 3 n iɣritn imtkurn d yan ucfa nɣ aɣri afssas (-{R|
 -{
 {| class="wikitable" style="text-align:center"
 ! 
-! [[:en:Front vowel|Front]]
-! [[:en:Central vowel|Central]]
-! [[:en:Back vowel|Back]]
+! [[:en:Front vowel|Adffiran]]
+! [[:en:Central vowel|Anammas]]
+! [[:en:Back vowel|Adffran]]
 |-
-! [[:en:Close vowel|Close]]
+! [:en:Close vowel][[:en:High vowel|Urgil]]
 | i
 |
 | u
 |-
-! [[:en:Open vowel|Open]]
+! [:en:Open vowel][[:en:Low vowel|Imldi]]
 |
 | a
 |
